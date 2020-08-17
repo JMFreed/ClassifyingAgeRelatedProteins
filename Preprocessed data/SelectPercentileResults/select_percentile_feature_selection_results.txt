@@ -1,0 +1,1283 @@
+C:\Python\python.exe C:/Users/james.freed/PycharmProjects/Dissertation/Main.py
+Importing datasets...
+Removing aging and senescence GO terms...
+Number instances: 20364
+Age-related: 306
+Non-age-related: 20058
+No sampling technique applied
+Reducing features by 90 percent...
+
+Most selected features: 
+GO:0000077 : DNA damage checkpoint : 200
+GO:0000122 : negative regulation of transcription by RNA polymerase II : 200
+GO:0000165 : MAPK cascade : 200
+GO:0000187 : activation of MAPK activity : 121
+GO:0000302 : response to reactive oxygen species : 200
+GO:0000723 : telomere maintenance : 200
+GO:0000724 : double-strand break repair via homologous recombination : 122
+GO:0000725 : recombinational repair : 121
+GO:0000726 : non-recombinational repair : 198
+GO:0001101 : response to acid chemical : 196
+GO:0001325 : formation of extrachromosomal circular DNA : 122
+GO:0001505 : regulation of neurotransmitter levels : 198
+GO:0001666 : response to hypoxia : 200
+GO:0001678 : cellular glucose homeostasis : 195
+GO:0001775 : cell activation : 200
+GO:0001817 : regulation of cytokine production : 200
+GO:0001819 : positive regulation of cytokine production : 200
+GO:0001892 : embryonic placenta development : 195
+GO:0001932 : regulation of protein phosphorylation : 200
+GO:0001934 : positive regulation of protein phosphorylation : 200
+GO:0002521 : leukocyte differentiation : 185
+GO:0002682 : regulation of immune system process : 200
+GO:0002684 : positive regulation of immune system process : 200
+GO:0002694 : regulation of leukocyte activation : 195
+GO:0002696 : positive regulation of leukocyte activation : 195
+GO:0002931 : response to ischemia : 121
+GO:0003006 : developmental process involved in reproduction : 171
+GO:0005979 : regulation of glycogen biosynthetic process : 190
+GO:0006109 : regulation of carbohydrate metabolic process : 200
+GO:0006110 : regulation of glycolytic process : 193
+GO:0006139 : nucleobase-containing compound metabolic process : 200
+GO:0006140 : regulation of nucleotide metabolic process : 193
+GO:0006259 : DNA metabolic process : 200
+GO:0006265 : DNA topological change : 200
+GO:0006281 : DNA repair : 200
+GO:0006283 : transcription-coupled nucleotide-excision repair : 196
+GO:0006284 : base-excision repair : 90
+GO:0006289 : nucleotide-excision repair : 193
+GO:0006293 : nucleotide-excision repair, preincision complex stabilization : 199
+GO:0006294 : nucleotide-excision repair, preincision complex assembly : 188
+GO:0006295 : nucleotide-excision repair, DNA incision, 3'-to lesion : 199
+GO:0006296 : nucleotide-excision repair, DNA incision, 5'-to lesion : 199
+GO:0006302 : double-strand break repair : 200
+GO:0006303 : double-strand break repair via nonhomologous end joining : 198
+GO:0006310 : DNA recombination : 177
+GO:0006352 : DNA-templated transcription, initiation : 101
+GO:0006355 : regulation of transcription, DNA-templated : 200
+GO:0006357 : regulation of transcription by RNA polymerase II : 200
+GO:0006367 : transcription initiation from RNA polymerase II promoter : 116
+GO:0006464 : cellular protein modification process : 200
+GO:0006468 : protein phosphorylation : 200
+GO:0006476 : protein deacetylation : 186
+GO:0006725 : cellular aromatic compound metabolic process : 200
+GO:0006793 : phosphorus metabolic process : 200
+GO:0006796 : phosphate-containing compound metabolic process : 200
+GO:0006807 : nitrogen compound metabolic process : 200
+GO:0006810 : transport : 190
+GO:0006915 : apoptotic process : 153
+GO:0006919 : activation of cysteine-type endopeptidase activity involved in apoptotic process : 10
+GO:0006950 : response to stress : 200
+GO:0006974 : cellular response to DNA damage stimulus : 200
+GO:0006978 : DNA damage response, signal transduction by p53 class mediator resulting in transcription of p21 class mediator : 160
+GO:0006979 : response to oxidative stress : 200
+GO:0006996 : organelle organization : 200
+GO:0007005 : mitochondrion organization : 189
+GO:0007006 : mitochondrial membrane organization : 158
+GO:0007050 : cell cycle arrest : 167
+GO:0007165 : signal transduction : 200
+GO:0007166 : cell surface receptor signaling pathway : 200
+GO:0007167 : enzyme linked receptor protein signaling pathway : 200
+GO:0007169 : transmembrane receptor protein tyrosine kinase signaling pathway : 200
+GO:0007173 : epidermal growth factor receptor signaling pathway : 200
+GO:0007346 : regulation of mitotic cell cycle : 200
+GO:0007613 : memory : 60
+GO:0007623 : circadian rhythm : 200
+GO:0008152 : metabolic process : 200
+GO:0008219 : cell death : 152
+GO:0008284 : positive regulation of cell population proliferation : 200
+GO:0008285 : negative regulation of cell population proliferation : 200
+GO:0008286 : insulin receptor signaling pathway : 199
+GO:0008340 : determination of adult lifespan : 180
+GO:0008630 : intrinsic apoptotic signaling pathway in response to DNA damage : 200
+GO:0009058 : biosynthetic process : 200
+GO:0009059 : macromolecule biosynthetic process : 200
+GO:0009266 : response to temperature stimulus : 200
+GO:0009314 : response to radiation : 200
+GO:0009408 : response to heat : 198
+GO:0009411 : response to UV : 200
+GO:0009416 : response to light stimulus : 200
+GO:0009605 : response to external stimulus : 200
+GO:0009612 : response to mechanical stimulus : 180
+GO:0009628 : response to abiotic stimulus : 200
+GO:0009636 : response to toxic substance : 200
+GO:0009650 : UV protection : 200
+GO:0009653 : anatomical structure morphogenesis : 136
+GO:0009719 : response to endogenous stimulus : 200
+GO:0009725 : response to hormone : 200
+GO:0009743 : response to carbohydrate : 31
+GO:0009746 : response to hexose : 31
+GO:0009749 : response to glucose : 31
+GO:0009889 : regulation of biosynthetic process : 200
+GO:0009890 : negative regulation of biosynthetic process : 200
+GO:0009891 : positive regulation of biosynthetic process : 200
+GO:0009892 : negative regulation of metabolic process : 200
+GO:0009893 : positive regulation of metabolic process : 200
+GO:0009894 : regulation of catabolic process : 200
+GO:0009896 : positive regulation of catabolic process : 200
+GO:0009966 : regulation of signal transduction : 200
+GO:0009967 : positive regulation of signal transduction : 200
+GO:0009968 : negative regulation of signal transduction : 200
+GO:0009987 : cellular process : 200
+GO:0009991 : response to extracellular stimulus : 200
+GO:0010033 : response to organic substance : 200
+GO:0010035 : response to inorganic substance : 200
+GO:0010038 : response to metal ion : 200
+GO:0010165 : response to X-ray : 192
+GO:0010212 : response to ionizing radiation : 200
+GO:0010243 : response to organonitrogen compound : 200
+GO:0010332 : response to gamma radiation : 200
+GO:0010468 : regulation of gene expression : 200
+GO:0010506 : regulation of autophagy : 197
+GO:0010517 : regulation of phospholipase activity : 181
+GO:0010518 : positive regulation of phospholipase activity : 181
+GO:0010556 : regulation of macromolecule biosynthetic process : 200
+GO:0010557 : positive regulation of macromolecule biosynthetic process : 200
+GO:0010558 : negative regulation of macromolecule biosynthetic process : 200
+GO:0010562 : positive regulation of phosphorus metabolic process : 200
+GO:0010564 : regulation of cell cycle process : 200
+GO:0010594 : regulation of endothelial cell migration : 189
+GO:0010595 : positive regulation of endothelial cell migration : 189
+GO:0010604 : positive regulation of macromolecule metabolic process : 200
+GO:0010605 : negative regulation of macromolecule metabolic process : 200
+GO:0010628 : positive regulation of gene expression : 200
+GO:0010629 : negative regulation of gene expression : 200
+GO:0010632 : regulation of epithelial cell migration : 189
+GO:0010634 : positive regulation of epithelial cell migration : 189
+GO:0010638 : positive regulation of organelle organization : 200
+GO:0010646 : regulation of cell communication : 200
+GO:0010647 : positive regulation of cell communication : 200
+GO:0010648 : negative regulation of cell communication : 200
+GO:0010675 : regulation of cellular carbohydrate metabolic process : 200
+GO:0010676 : positive regulation of cellular carbohydrate metabolic process : 190
+GO:0010821 : regulation of mitochondrion organization : 199
+GO:0010822 : positive regulation of mitochondrion organization : 156
+GO:0010827 : regulation of glucose transmembrane transport : 200
+GO:0010828 : positive regulation of glucose transmembrane transport : 200
+GO:0010863 : positive regulation of phospholipase C activity : 181
+GO:0010906 : regulation of glucose metabolic process : 190
+GO:0010907 : positive regulation of glucose metabolic process : 189
+GO:0010941 : regulation of cell death : 200
+GO:0010942 : positive regulation of cell death : 200
+GO:0010948 : negative regulation of cell cycle process : 200
+GO:0010950 : positive regulation of endopeptidase activity : 198
+GO:0010952 : positive regulation of peptidase activity : 198
+GO:0010962 : regulation of glucan biosynthetic process : 189
+GO:0012501 : programmed cell death : 152
+GO:0014066 : regulation of phosphatidylinositol 3-kinase signaling : 200
+GO:0014068 : positive regulation of phosphatidylinositol 3-kinase signaling : 200
+GO:0014070 : response to organic cyclic compound : 200
+GO:0014823 : response to activity : 200
+GO:0016032 : viral process : 200
+GO:0016043 : cellular component organization : 200
+GO:0016070 : RNA metabolic process : 199
+GO:0016310 : phosphorylation : 200
+GO:0018105 : peptidyl-serine phosphorylation : 197
+GO:0018108 : peptidyl-tyrosine phosphorylation : 200
+GO:0018130 : heterocycle biosynthetic process : 200
+GO:0018193 : peptidyl-amino acid modification : 200
+GO:0018209 : peptidyl-serine modification : 197
+GO:0018212 : peptidyl-tyrosine modification : 200
+GO:0019216 : regulation of lipid metabolic process : 200
+GO:0019219 : regulation of nucleobase-containing compound metabolic process : 200
+GO:0019220 : regulation of phosphate metabolic process : 200
+GO:0019221 : cytokine-mediated signaling pathway : 200
+GO:0019222 : regulation of metabolic process : 200
+GO:0019438 : aromatic compound biosynthetic process : 200
+GO:0019538 : protein metabolic process : 200
+GO:0019725 : cellular homeostasis : 200
+GO:0022402 : cell cycle process : 196
+GO:0022407 : regulation of cell-cell adhesion : 134
+GO:0022409 : positive regulation of cell-cell adhesion : 134
+GO:0022414 : reproductive process : 198
+GO:0022607 : cellular component assembly : 200
+GO:0023014 : signal transduction by protein phosphorylation : 200
+GO:0023051 : regulation of signaling : 200
+GO:0023056 : positive regulation of signaling : 200
+GO:0023057 : negative regulation of signaling : 200
+GO:0030154 : cell differentiation : 179
+GO:0030155 : regulation of cell adhesion : 199
+GO:0030162 : regulation of proteolysis : 200
+GO:0030330 : DNA damage response, signal transduction by p53 class mediator : 200
+GO:0030334 : regulation of cell migration : 200
+GO:0030335 : positive regulation of cell migration : 200
+GO:0031323 : regulation of cellular metabolic process : 200
+GO:0031324 : negative regulation of cellular metabolic process : 200
+GO:0031325 : positive regulation of cellular metabolic process : 200
+GO:0031326 : regulation of cellular biosynthetic process : 200
+GO:0031327 : negative regulation of cellular biosynthetic process : 200
+GO:0031328 : positive regulation of cellular biosynthetic process : 200
+GO:0031329 : regulation of cellular catabolic process : 200
+GO:0031331 : positive regulation of cellular catabolic process : 200
+GO:0031334 : positive regulation of protein-containing complex assembly : 200
+GO:0031347 : regulation of defense response : 200
+GO:0031349 : positive regulation of defense response : 190
+GO:0031399 : regulation of protein modification process : 200
+GO:0031401 : positive regulation of protein modification process : 200
+GO:0031570 : DNA integrity checkpoint : 200
+GO:0031647 : regulation of protein stability : 200
+GO:0031667 : response to nutrient levels : 200
+GO:0032101 : regulation of response to external stimulus : 200
+GO:0032103 : positive regulation of response to external stimulus : 190
+GO:0032147 : activation of protein kinase activity : 200
+GO:0032148 : activation of protein kinase B activity : 191
+GO:0032200 : telomere organization : 200
+GO:0032268 : regulation of cellular protein metabolic process : 200
+GO:0032269 : negative regulation of cellular protein metabolic process : 152
+GO:0032270 : positive regulation of cellular protein metabolic process : 200
+GO:0032355 : response to estradiol : 200
+GO:0032386 : regulation of intracellular transport : 200
+GO:0032388 : positive regulation of intracellular transport : 200
+GO:0032392 : DNA geometric change : 180
+GO:0032434 : regulation of proteasomal ubiquitin-dependent protein catabolic process : 190
+GO:0032436 : positive regulation of proteasomal ubiquitin-dependent protein catabolic process : 190
+GO:0032501 : multicellular organismal process : 200
+GO:0032502 : developmental process : 200
+GO:0032508 : DNA duplex unwinding : 180
+GO:0032768 : regulation of monooxygenase activity : 198
+GO:0032770 : positive regulation of monooxygenase activity : 198
+GO:0032774 : RNA biosynthetic process : 199
+GO:0032868 : response to insulin : 200
+GO:0032869 : cellular response to insulin stimulus : 198
+GO:0032870 : cellular response to hormone stimulus : 200
+GO:0032879 : regulation of localization : 200
+GO:0032880 : regulation of protein localization : 200
+GO:0032881 : regulation of polysaccharide metabolic process : 200
+GO:0032885 : regulation of polysaccharide biosynthetic process : 189
+GO:0032922 : circadian regulation of gene expression : 187
+GO:0032928 : regulation of superoxide anion generation : 163
+GO:0032930 : positive regulation of superoxide anion generation : 163
+GO:0032944 : regulation of mononuclear cell proliferation : 110
+GO:0032946 : positive regulation of mononuclear cell proliferation : 108
+GO:0033043 : regulation of organelle organization : 200
+GO:0033135 : regulation of peptidyl-serine phosphorylation : 149
+GO:0033138 : positive regulation of peptidyl-serine phosphorylation : 149
+GO:0033157 : regulation of intracellular protein transport : 200
+GO:0033500 : carbohydrate homeostasis : 200
+GO:0033554 : cellular response to stress : 200
+GO:0033674 : positive regulation of kinase activity : 200
+GO:0033683 : nucleotide-excision repair, DNA incision : 198
+GO:0033993 : response to lipid : 200
+GO:0034284 : response to monosaccharide : 31
+GO:0034599 : cellular response to oxidative stress : 200
+GO:0034605 : cellular response to heat : 194
+GO:0034614 : cellular response to reactive oxygen species : 200
+GO:0034620 : cellular response to unfolded protein : 170
+GO:0034622 : cellular protein-containing complex assembly : 188
+GO:0034641 : cellular nitrogen compound metabolic process : 200
+GO:0034644 : cellular response to UV : 198
+GO:0034645 : cellular macromolecule biosynthetic process : 200
+GO:0034654 : nucleobase-containing compound biosynthetic process : 200
+GO:0034762 : regulation of transmembrane transport : 200
+GO:0034764 : positive regulation of transmembrane transport : 200
+GO:0035556 : intracellular signal transduction : 200
+GO:0035601 : protein deacylation : 185
+GO:0035690 : cellular response to drug : 199
+GO:0035723 : interleukin-15-mediated signaling pathway : 177
+GO:0035967 : cellular response to topologically incorrect protein : 170
+GO:0035994 : response to muscle stretch : 154
+GO:0036211 : protein modification process : 200
+GO:0036293 : response to decreased oxygen levels : 200
+GO:0036294 : cellular response to decreased oxygen levels : 198
+GO:0036296 : response to increased oxygen levels : 175
+GO:0038110 : interleukin-2-mediated signaling pathway : 192
+GO:0038111 : interleukin-7-mediated signaling pathway : 200
+GO:0038127 : ERBB signaling pathway : 200
+GO:0038128 : ERBB2 signaling pathway : 199
+GO:0040008 : regulation of growth : 200
+GO:0040012 : regulation of locomotion : 200
+GO:0040014 : regulation of multicellular organism growth : 200
+GO:0040017 : positive regulation of locomotion : 200
+GO:0040018 : positive regulation of multicellular organism growth : 190
+GO:0042127 : regulation of cell population proliferation : 200
+GO:0042176 : regulation of protein catabolic process : 200
+GO:0042221 : response to chemical : 200
+GO:0042325 : regulation of phosphorylation : 200
+GO:0042327 : positive regulation of phosphorylation : 200
+GO:0042493 : response to drug : 200
+GO:0042509 : regulation of tyrosine phosphorylation of STAT protein : 77
+GO:0042531 : positive regulation of tyrosine phosphorylation of STAT protein : 77
+GO:0042542 : response to hydrogen peroxide : 200
+GO:0042592 : homeostatic process : 200
+GO:0042593 : glucose homeostasis : 200
+GO:0042752 : regulation of circadian rhythm : 199
+GO:0042770 : signal transduction in response to DNA damage : 200
+GO:0042771 : intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator : 176
+GO:0042772 : DNA damage response, signal transduction resulting in transcription : 160
+GO:0042981 : regulation of apoptotic process : 200
+GO:0043065 : positive regulation of apoptotic process : 200
+GO:0043066 : negative regulation of apoptotic process : 200
+GO:0043067 : regulation of programmed cell death : 200
+GO:0043068 : positive regulation of programmed cell death : 200
+GO:0043069 : negative regulation of programmed cell death : 200
+GO:0043085 : positive regulation of catalytic activity : 200
+GO:0043086 : negative regulation of catalytic activity : 105
+GO:0043170 : macromolecule metabolic process : 200
+GO:0043254 : regulation of protein-containing complex assembly : 200
+GO:0043255 : regulation of carbohydrate biosynthetic process : 189
+GO:0043276 : anoikis : 191
+GO:0043280 : positive regulation of cysteine-type endopeptidase activity involved in apoptotic process : 198
+GO:0043281 : regulation of cysteine-type endopeptidase activity involved in apoptotic process : 198
+GO:0043388 : positive regulation of DNA binding : 178
+GO:0043405 : regulation of MAP kinase activity : 200
+GO:0043406 : positive regulation of MAP kinase activity : 200
+GO:0043408 : regulation of MAPK cascade : 200
+GO:0043410 : positive regulation of MAPK cascade : 200
+GO:0043412 : macromolecule modification : 200
+GO:0043434 : response to peptide hormone : 200
+GO:0043467 : regulation of generation of precursor metabolites and energy : 200
+GO:0043470 : regulation of carbohydrate catabolic process : 200
+GO:0043523 : regulation of neuron apoptotic process : 200
+GO:0043524 : negative regulation of neuron apoptotic process : 198
+GO:0043525 : positive regulation of neuron apoptotic process : 200
+GO:0043535 : regulation of blood vessel endothelial cell migration : 198
+GO:0043536 : positive regulation of blood vessel endothelial cell migration : 198
+GO:0043549 : regulation of kinase activity : 200
+GO:0043550 : regulation of lipid kinase activity : 162
+GO:0043551 : regulation of phosphatidylinositol 3-kinase activity : 162
+GO:0043552 : positive regulation of phosphatidylinositol 3-kinase activity : 162
+GO:0043567 : regulation of insulin-like growth factor receptor signaling pathway : 177
+GO:0043568 : positive regulation of insulin-like growth factor receptor signaling pathway : 177
+GO:0043933 : protein-containing complex subunit organization : 193
+GO:0044087 : regulation of cellular component biogenesis : 200
+GO:0044089 : positive regulation of cellular component biogenesis : 200
+GO:0044092 : negative regulation of molecular function : 200
+GO:0044093 : positive regulation of molecular function : 200
+GO:0044237 : cellular metabolic process : 200
+GO:0044238 : primary metabolic process : 200
+GO:0044249 : cellular biosynthetic process : 200
+GO:0044260 : cellular macromolecule metabolic process : 200
+GO:0044267 : cellular protein metabolic process : 200
+GO:0044271 : cellular nitrogen compound biosynthetic process : 200
+GO:0044320 : cellular response to leptin stimulus : 187
+GO:0044321 : response to leptin : 187
+GO:0044403 : symbiotic process : 200
+GO:0044419 : interspecies interaction between organisms : 197
+GO:0045321 : leukocyte activation : 178
+GO:0045428 : regulation of nitric oxide biosynthetic process : 198
+GO:0045429 : positive regulation of nitric oxide biosynthetic process : 198
+GO:0045595 : regulation of cell differentiation : 200
+GO:0045597 : positive regulation of cell differentiation : 200
+GO:0045637 : regulation of myeloid cell differentiation : 185
+GO:0045639 : positive regulation of myeloid cell differentiation : 185
+GO:0045646 : regulation of erythrocyte differentiation : 184
+GO:0045648 : positive regulation of erythrocyte differentiation : 184
+GO:0045725 : positive regulation of glycogen biosynthetic process : 189
+GO:0045732 : positive regulation of protein catabolic process : 175
+GO:0045785 : positive regulation of cell adhesion : 191
+GO:0045786 : negative regulation of cell cycle : 200
+GO:0045787 : positive regulation of cell cycle : 200
+GO:0045834 : positive regulation of lipid metabolic process : 200
+GO:0045859 : regulation of protein kinase activity : 200
+GO:0045860 : positive regulation of protein kinase activity : 200
+GO:0045862 : positive regulation of proteolysis : 200
+GO:0045892 : negative regulation of transcription, DNA-templated : 200
+GO:0045893 : positive regulation of transcription, DNA-templated : 200
+GO:0045913 : positive regulation of carbohydrate metabolic process : 178
+GO:0045927 : positive regulation of growth : 172
+GO:0045930 : negative regulation of mitotic cell cycle : 200
+GO:0045931 : positive regulation of mitotic cell cycle : 200
+GO:0045934 : negative regulation of nucleobase-containing compound metabolic process : 200
+GO:0045935 : positive regulation of nucleobase-containing compound metabolic process : 200
+GO:0045937 : positive regulation of phosphate metabolic process : 200
+GO:0045944 : positive regulation of transcription by RNA polymerase II : 200
+GO:0046324 : regulation of glucose import : 200
+GO:0046326 : positive regulation of glucose import : 200
+GO:0046483 : heterocycle metabolic process : 200
+GO:0046578 : regulation of Ras protein signal transduction : 179
+GO:0046579 : positive regulation of Ras protein signal transduction : 178
+GO:0046649 : lymphocyte activation : 117
+GO:0046677 : response to antibiotic : 200
+GO:0046686 : response to cadmium ion : 200
+GO:0046777 : protein autophosphorylation : 135
+GO:0046902 : regulation of mitochondrial membrane permeability : 156
+GO:0048009 : insulin-like growth factor receptor signaling pathway : 186
+GO:0048015 : phosphatidylinositol-mediated signaling : 136
+GO:0048017 : inositol lipid-mediated signaling : 136
+GO:0048143 : astrocyte activation : 108
+GO:0048145 : regulation of fibroblast proliferation : 200
+GO:0048146 : positive regulation of fibroblast proliferation : 200
+GO:0048511 : rhythmic process : 200
+GO:0048513 : animal organ development : 200
+GO:0048518 : positive regulation of biological process : 200
+GO:0048519 : negative regulation of biological process : 200
+GO:0048522 : positive regulation of cellular process : 200
+GO:0048523 : negative regulation of cellular process : 200
+GO:0048534 : hematopoietic or lymphoid organ development : 83
+GO:0048538 : thymus development : 46
+GO:0048568 : embryonic organ development : 197
+GO:0048583 : regulation of response to stimulus : 200
+GO:0048584 : positive regulation of response to stimulus : 200
+GO:0048585 : negative regulation of response to stimulus : 200
+GO:0048638 : regulation of developmental growth : 200
+GO:0048639 : positive regulation of developmental growth : 190
+GO:0048660 : regulation of smooth muscle cell proliferation : 200
+GO:0048856 : anatomical structure development : 200
+GO:0048869 : cellular developmental process : 200
+GO:0048878 : chemical homeostasis : 200
+GO:0050670 : regulation of lymphocyte proliferation : 107
+GO:0050671 : positive regulation of lymphocyte proliferation : 107
+GO:0050678 : regulation of epithelial cell proliferation : 200
+GO:0050679 : positive regulation of epithelial cell proliferation : 200
+GO:0050727 : regulation of inflammatory response : 159
+GO:0050729 : positive regulation of inflammatory response : 21
+GO:0050730 : regulation of peptidyl-tyrosine phosphorylation : 200
+GO:0050731 : positive regulation of peptidyl-tyrosine phosphorylation : 200
+GO:0050789 : regulation of biological process : 200
+GO:0050790 : regulation of catalytic activity : 200
+GO:0050793 : regulation of developmental process : 200
+GO:0050794 : regulation of cellular process : 200
+GO:0050801 : ion homeostasis : 92
+GO:0050821 : protein stabilization : 72
+GO:0050863 : regulation of T cell activation : 134
+GO:0050865 : regulation of cell activation : 195
+GO:0050867 : positive regulation of cell activation : 195
+GO:0050870 : positive regulation of T cell activation : 133
+GO:0050896 : response to stimulus : 200
+GO:0050999 : regulation of nitric-oxide synthase activity : 198
+GO:0051000 : positive regulation of nitric-oxide synthase activity : 198
+GO:0051049 : regulation of transport : 200
+GO:0051050 : positive regulation of transport : 200
+GO:0051052 : regulation of DNA metabolic process : 200
+GO:0051053 : negative regulation of DNA metabolic process : 117
+GO:0051054 : positive regulation of DNA metabolic process : 198
+GO:0051056 : regulation of small GTPase mediated signal transduction : 178
+GO:0051057 : positive regulation of small GTPase mediated signal transduction : 178
+GO:0051090 : regulation of DNA-binding transcription factor activity : 200
+GO:0051091 : positive regulation of DNA-binding transcription factor activity : 199
+GO:0051093 : negative regulation of developmental process : 145
+GO:0051094 : positive regulation of developmental process : 200
+GO:0051098 : regulation of binding : 200
+GO:0051099 : positive regulation of binding : 160
+GO:0051100 : negative regulation of binding : 195
+GO:0051101 : regulation of DNA binding : 197
+GO:0051128 : regulation of cellular component organization : 200
+GO:0051130 : positive regulation of cellular component organization : 200
+GO:0051171 : regulation of nitrogen compound metabolic process : 200
+GO:0051172 : negative regulation of nitrogen compound metabolic process : 200
+GO:0051173 : positive regulation of nitrogen compound metabolic process : 200
+GO:0051174 : regulation of phosphorus metabolic process : 200
+GO:0051179 : localization : 189
+GO:0051222 : positive regulation of protein transport : 200
+GO:0051223 : regulation of protein transport : 200
+GO:0051234 : establishment of localization : 189
+GO:0051239 : regulation of multicellular organismal process : 200
+GO:0051240 : positive regulation of multicellular organismal process : 200
+GO:0051246 : regulation of protein metabolic process : 200
+GO:0051247 : positive regulation of protein metabolic process : 200
+GO:0051248 : negative regulation of protein metabolic process : 196
+GO:0051249 : regulation of lymphocyte activation : 195
+GO:0051251 : positive regulation of lymphocyte activation : 195
+GO:0051252 : regulation of RNA metabolic process : 200
+GO:0051253 : negative regulation of RNA metabolic process : 200
+GO:0051254 : positive regulation of RNA metabolic process : 200
+GO:0051270 : regulation of cellular component movement : 200
+GO:0051272 : positive regulation of cellular component movement : 200
+GO:0051276 : chromosome organization : 200
+GO:0051336 : regulation of hydrolase activity : 199
+GO:0051338 : regulation of transferase activity : 200
+GO:0051341 : regulation of oxidoreductase activity : 198
+GO:0051345 : positive regulation of hydrolase activity : 196
+GO:0051347 : positive regulation of transferase activity : 200
+GO:0051353 : positive regulation of oxidoreductase activity : 198
+GO:0051402 : neuron apoptotic process : 200
+GO:0051716 : cellular response to stimulus : 200
+GO:0051726 : regulation of cell cycle : 200
+GO:0051896 : regulation of protein kinase B signaling : 200
+GO:0051897 : positive regulation of protein kinase B signaling : 200
+GO:0051972 : regulation of telomerase activity : 115
+GO:0051974 : negative regulation of telomerase activity : 117
+GO:0052547 : regulation of peptidase activity : 198
+GO:0052548 : regulation of endopeptidase activity : 198
+GO:0055082 : cellular chemical homeostasis : 200
+GO:0055093 : response to hyperoxia : 175
+GO:0060147 : regulation of posttranscriptional gene silencing : 196
+GO:0060149 : negative regulation of posttranscriptional gene silencing : 196
+GO:0060191 : regulation of lipase activity : 181
+GO:0060193 : positive regulation of lipase activity : 181
+GO:0060249 : anatomical structure homeostasis : 200
+GO:0060255 : regulation of macromolecule metabolic process : 200
+GO:0060341 : regulation of cellular localization : 200
+GO:0060396 : growth hormone receptor signaling pathway : 199
+GO:0060397 : growth hormone receptor signaling pathway via JAK-STAT : 194
+GO:0060548 : negative regulation of cell death : 200
+GO:0060964 : regulation of gene silencing by miRNA : 196
+GO:0060965 : negative regulation of gene silencing by miRNA : 196
+GO:0060966 : regulation of gene silencing by RNA : 196
+GO:0060967 : negative regulation of gene silencing by RNA : 196
+GO:0060968 : regulation of gene silencing : 196
+GO:0060969 : negative regulation of gene silencing : 196
+GO:0061136 : regulation of proteasomal protein catabolic process : 190
+GO:0061820 : telomeric D-loop disassembly : 182
+GO:0061900 : glial cell activation : 188
+GO:0062012 : regulation of small molecule metabolic process : 200
+GO:0062013 : positive regulation of small molecule metabolic process : 178
+GO:0062197 : cellular response to chemical stress : 200
+GO:0065003 : protein-containing complex assembly : 193
+GO:0065004 : protein-DNA complex assembly : 187
+GO:0065007 : biological regulation : 200
+GO:0065008 : regulation of biological quality : 200
+GO:0065009 : regulation of molecular function : 200
+GO:0070059 : intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress : 143
+GO:0070201 : regulation of establishment of protein localization : 200
+GO:0070301 : cellular response to hydrogen peroxide : 199
+GO:0070372 : regulation of ERK1 and ERK2 cascade : 131
+GO:0070374 : positive regulation of ERK1 and ERK2 cascade : 109
+GO:0070482 : response to oxygen levels : 200
+GO:0070663 : regulation of leukocyte proliferation : 106
+GO:0070665 : positive regulation of leukocyte proliferation : 106
+GO:0070848 : response to growth factor : 200
+GO:0070873 : regulation of glycogen metabolic process : 189
+GO:0070875 : positive regulation of glycogen metabolic process : 189
+GO:0070887 : cellular response to chemical stimulus : 200
+GO:0070911 : global genome nucleotide-excision repair : 167
+GO:0070920 : regulation of production of small RNA involved in gene silencing by RNA : 196
+GO:0070997 : neuron death : 200
+GO:0071103 : DNA conformation change : 200
+GO:0071214 : cellular response to abiotic stimulus : 200
+GO:0071229 : cellular response to acid chemical : 77
+GO:0071236 : cellular response to antibiotic : 199
+GO:0071241 : cellular response to inorganic substance : 199
+GO:0071248 : cellular response to metal ion : 199
+GO:0071276 : cellular response to cadmium ion : 191
+GO:0071310 : cellular response to organic substance : 200
+GO:0071322 : cellular response to carbohydrate stimulus : 136
+GO:0071326 : cellular response to monosaccharide stimulus : 136
+GO:0071331 : cellular response to hexose stimulus : 135
+GO:0071333 : cellular response to glucose stimulus : 135
+GO:0071363 : cellular response to growth factor stimulus : 200
+GO:0071375 : cellular response to peptide hormone stimulus : 200
+GO:0071396 : cellular response to lipid : 195
+GO:0071407 : cellular response to organic cyclic compound : 119
+GO:0071417 : cellular response to organonitrogen compound : 200
+GO:0071453 : cellular response to oxygen levels : 198
+GO:0071456 : cellular response to hypoxia : 198
+GO:0071478 : cellular response to radiation : 200
+GO:0071479 : cellular response to ionizing radiation : 200
+GO:0071480 : cellular response to gamma radiation : 200
+GO:0071482 : cellular response to light stimulus : 198
+GO:0071495 : cellular response to endogenous stimulus : 200
+GO:0071704 : organic substance metabolic process : 200
+GO:0071824 : protein-DNA complex subunit organization : 187
+GO:0071840 : cellular component organization or biogenesis : 200
+GO:0071900 : regulation of protein serine/threonine kinase activity : 200
+GO:0071902 : positive regulation of protein serine/threonine kinase activity : 200
+GO:0072331 : signal transduction by p53 class mediator : 200
+GO:0072332 : intrinsic apoptotic signaling pathway by p53 class mediator : 175
+GO:0080090 : regulation of primary metabolic process : 200
+GO:0080134 : regulation of response to stress : 200
+GO:0080135 : regulation of cellular response to stress : 200
+GO:0090068 : positive regulation of cell cycle process : 200
+GO:0090087 : regulation of peptide transport : 200
+GO:0090218 : positive regulation of lipid kinase activity : 162
+GO:0090304 : nucleic acid metabolic process : 200
+GO:0090305 : nucleic acid phosphodiester bond hydrolysis : 198
+GO:0090316 : positive regulation of intracellular protein transport : 200
+GO:0090322 : regulation of superoxide metabolic process : 163
+GO:0090559 : regulation of membrane permeability : 154
+GO:0090656 : t-circle formation : 122
+GO:0090657 : telomeric loop disassembly : 182
+GO:0097190 : apoptotic signaling pathway : 200
+GO:0097191 : extrinsic apoptotic signaling pathway : 126
+GO:0097193 : intrinsic apoptotic signaling pathway : 200
+GO:0097237 : cellular response to toxic substance : 199
+GO:0098732 : macromolecule deacylation : 185
+GO:0104004 : cellular response to environmental stimulus : 200
+GO:1900034 : regulation of cellular response to heat : 198
+GO:1900180 : regulation of protein localization to nucleus : 196
+GO:1900182 : positive regulation of protein localization to nucleus : 196
+GO:1900274 : regulation of phospholipase C activity : 181
+GO:1900407 : regulation of cellular response to oxidative stress : 196
+GO:1900408 : negative regulation of cellular response to oxidative stress : 196
+GO:1900542 : regulation of purine nucleotide metabolic process : 193
+GO:1900739 : regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway : 152
+GO:1900740 : positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway : 152
+GO:1901028 : regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway : 152
+GO:1901030 : positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway : 152
+GO:1901214 : regulation of neuron death : 200
+GO:1901215 : negative regulation of neuron death : 200
+GO:1901216 : positive regulation of neuron death : 200
+GO:1901360 : organic cyclic compound metabolic process : 200
+GO:1901362 : organic cyclic compound biosynthetic process : 200
+GO:1901564 : organonitrogen compound metabolic process : 200
+GO:1901576 : organic substance biosynthetic process : 200
+GO:1901652 : response to peptide : 200
+GO:1901653 : cellular response to peptide : 200
+GO:1901698 : response to nitrogen compound : 200
+GO:1901699 : cellular response to nitrogen compound : 200
+GO:1901700 : response to oxygen-containing compound : 200
+GO:1901701 : cellular response to oxygen-containing compound : 200
+GO:1901796 : regulation of signal transduction by p53 class mediator : 199
+GO:1901800 : positive regulation of proteasomal protein catabolic process : 190
+GO:1901987 : regulation of cell cycle phase transition : 200
+GO:1901988 : negative regulation of cell cycle phase transition : 200
+GO:1901990 : regulation of mitotic cell cycle phase transition : 200
+GO:1901991 : negative regulation of mitotic cell cycle phase transition : 200
+GO:1902175 : regulation of oxidative stress-induced intrinsic apoptotic signaling pathway : 196
+GO:1902176 : negative regulation of oxidative stress-induced intrinsic apoptotic signaling pathway : 196
+GO:1902531 : regulation of intracellular signal transduction : 200
+GO:1902533 : positive regulation of intracellular signal transduction : 200
+GO:1902679 : negative regulation of RNA biosynthetic process : 200
+GO:1902680 : positive regulation of RNA biosynthetic process : 200
+GO:1902806 : regulation of cell cycle G1/S phase transition : 199
+GO:1902807 : negative regulation of cell cycle G1/S phase transition : 190
+GO:1902882 : regulation of response to oxidative stress : 196
+GO:1902883 : negative regulation of response to oxidative stress : 196
+GO:1902893 : regulation of pri-miRNA transcription by RNA polymerase II : 200
+GO:1902895 : positive regulation of pri-miRNA transcription by RNA polymerase II : 200
+GO:1903037 : regulation of leukocyte cell-cell adhesion : 132
+GO:1903039 : positive regulation of leukocyte cell-cell adhesion : 132
+GO:1903050 : regulation of proteolysis involved in cellular protein catabolic process : 200
+GO:1903052 : positive regulation of proteolysis involved in cellular protein catabolic process : 200
+GO:1903201 : regulation of oxidative stress-induced cell death : 196
+GO:1903202 : negative regulation of oxidative stress-induced cell death : 196
+GO:1903362 : regulation of cellular protein catabolic process : 200
+GO:1903364 : positive regulation of cellular protein catabolic process : 200
+GO:1903426 : regulation of reactive oxygen species biosynthetic process : 198
+GO:1903428 : positive regulation of reactive oxygen species biosynthetic process : 198
+GO:1903506 : regulation of nucleic acid-templated transcription : 200
+GO:1903507 : negative regulation of nucleic acid-templated transcription : 200
+GO:1903508 : positive regulation of nucleic acid-templated transcription : 200
+GO:1903578 : regulation of ATP metabolic process : 193
+GO:1903706 : regulation of hemopoiesis : 184
+GO:1903708 : positive regulation of hemopoiesis : 184
+GO:1903725 : regulation of phospholipid metabolic process : 162
+GO:1903727 : positive regulation of phospholipid metabolic process : 162
+GO:1903747 : regulation of establishment of protein localization to mitochondrion : 150
+GO:1903749 : positive regulation of establishment of protein localization to mitochondrion : 150
+GO:1903798 : regulation of production of miRNAs involved in gene silencing by miRNA : 196
+GO:1903799 : negative regulation of production of miRNAs involved in gene silencing by miRNA : 196
+GO:1903827 : regulation of cellular protein localization : 200
+GO:1903829 : positive regulation of cellular protein localization : 200
+GO:1904385 : cellular response to angiotensin : 135
+GO:1904407 : positive regulation of nitric oxide metabolic process : 198
+GO:1904645 : response to amyloid-beta : 102
+GO:1904646 : cellular response to amyloid-beta : 102
+GO:1904705 : regulation of vascular smooth muscle cell proliferation : 198
+GO:1904951 : positive regulation of establishment of protein localization : 200
+GO:1990776 : response to angiotensin : 135
+GO:2000026 : regulation of multicellular organismal development : 200
+GO:2000045 : regulation of G1/S transition of mitotic cell cycle : 199
+GO:2000058 : regulation of ubiquitin-dependent protein catabolic process : 200
+GO:2000060 : positive regulation of ubiquitin-dependent protein catabolic process : 200
+GO:2000112 : regulation of cellular macromolecule biosynthetic process : 200
+GO:2000113 : negative regulation of cellular macromolecule biosynthetic process : 200
+GO:2000116 : regulation of cysteine-type endopeptidase activity : 198
+GO:2000134 : negative regulation of G1/S transition of mitotic cell cycle : 190
+GO:2000145 : regulation of cell motility : 200
+GO:2000147 : positive regulation of cell motility : 200
+GO:2000278 : regulation of DNA biosynthetic process : 198
+GO:2000279 : negative regulation of DNA biosynthetic process : 116
+GO:2000377 : regulation of reactive oxygen species metabolic process : 200
+GO:2000379 : positive regulation of reactive oxygen species metabolic process : 200
+GO:2001056 : positive regulation of cysteine-type endopeptidase activity : 198
+GO:2001141 : regulation of RNA biosynthetic process : 200
+GO:2001233 : regulation of apoptotic signaling pathway : 200
+GO:2001234 : negative regulation of apoptotic signaling pathway : 200
+GO:2001235 : positive regulation of apoptotic signaling pathway : 193
+GO:2001236 : regulation of extrinsic apoptotic signaling pathway : 200
+GO:2001237 : negative regulation of extrinsic apoptotic signaling pathway : 200
+GO:2001242 : regulation of intrinsic apoptotic signaling pathway : 182
+GO:2001243 : negative regulation of intrinsic apoptotic signaling pathway : 196
+NumberAgeRelatedPartners : 200
+interacts_with_A1ATR_HUMAN : 200
+interacts_with_AATF_HUMAN : 86
+interacts_with_ABL1_HUMAN : 200
+interacts_with_ABL2_HUMAN : 173
+interacts_with_AHR_HUMAN : 183
+interacts_with_AKT1_HUMAN : 200
+interacts_with_AKTIP_HUMAN : 84
+interacts_with_ANDR_HUMAN : 200
+interacts_with_ANTR1_HUMAN : 200
+interacts_with_ARF_HUMAN : 200
+interacts_with_ARNT_HUMAN : 196
+interacts_with_ATF2_HUMAN : 198
+interacts_with_ATF3_HUMAN : 197
+interacts_with_ATF4_HUMAN : 162
+interacts_with_ATM_HUMAN : 200
+interacts_with_ATR_HUMAN : 200
+interacts_with_ATRX_HUMAN : 200
+interacts_with_ATX3_HUMAN : 181
+interacts_with_AURKA_HUMAN : 150
+interacts_with_BAP18_HUMAN : 107
+interacts_with_BCL2_HUMAN : 200
+interacts_with_BCL3_HUMAN : 196
+interacts_with_BCL6_HUMAN : 176
+interacts_with_BCR_HUMAN : 109
+interacts_with_BECN1_HUMAN : 184
+interacts_with_BID_HUMAN : 74
+interacts_with_BLM_HUMAN : 200
+interacts_with_BRAF_HUMAN : 183
+interacts_with_BRCA1_HUMAN : 200
+interacts_with_BRMS1_HUMAN : 177
+interacts_with_C2TA_HUMAN : 100
+interacts_with_CASP3_HUMAN : 196
+interacts_with_CAV1_HUMAN : 154
+interacts_with_CBL_HUMAN : 200
+interacts_with_CBLB_HUMAN : 142
+interacts_with_CBP_HUMAN : 200
+interacts_with_CCN2_HUMAN : 132
+interacts_with_CCNA2_HUMAN : 200
+interacts_with_CCNB1_HUMAN : 200
+interacts_with_CCND1_HUMAN : 200
+interacts_with_CCNE1_HUMAN : 197
+interacts_with_CDC20_HUMAN : 199
+interacts_with_CDC6_HUMAN : 155
+interacts_with_CDK1_HUMAN : 200
+interacts_with_CDK2_HUMAN : 200
+interacts_with_CDK4_HUMAN : 200
+interacts_with_CDK5_HUMAN : 162
+interacts_with_CDK6_HUMAN : 196
+interacts_with_CDN1A_HUMAN : 199
+interacts_with_CDN2A_HUMAN : 200
+interacts_with_CEBPA_HUMAN : 200
+interacts_with_CEBPB_HUMAN : 200
+interacts_with_CHIP_HUMAN : 200
+interacts_with_CHK1_HUMAN : 200
+interacts_with_CHK2_HUMAN : 183
+interacts_with_CSK21_HUMAN : 200
+interacts_with_CSK2B_HUMAN : 172
+interacts_with_CTNB1_HUMAN : 200
+interacts_with_CUL4A_HUMAN : 143
+interacts_with_DACH1_HUMAN : 200
+interacts_with_DAND5_HUMAN : 200
+interacts_with_DAXX_HUMAN : 200
+interacts_with_DNJA3_HUMAN : 26
+interacts_with_DNM3L_HUMAN : 159
+interacts_with_DPOLQ_HUMAN : 150
+interacts_with_DYRK2_HUMAN : 27
+interacts_with_E2F1_HUMAN : 200
+interacts_with_E2F4_HUMAN : 126
+interacts_with_EAA2_HUMAN : 22
+interacts_with_EGFR_HUMAN : 200
+interacts_with_EGR1_HUMAN : 163
+interacts_with_ELF3_HUMAN : 197
+interacts_with_EP300_HUMAN : 200
+interacts_with_EPAS1_HUMAN : 143
+interacts_with_ERBB2_HUMAN : 200
+interacts_with_ERCC5_HUMAN : 189
+interacts_with_ERCC6_HUMAN : 200
+interacts_with_ERPG3_HUMAN : 200
+interacts_with_ESR1_HUMAN : 200
+interacts_with_ETS1_HUMAN : 198
+interacts_with_EXO1_HUMAN : 200
+interacts_with_FACD2_HUMAN : 199
+interacts_with_FAK1_HUMAN : 198
+interacts_with_FBW1A_HUMAN : 200
+interacts_with_FBX22_HUMAN : 183
+interacts_with_FCG2B_HUMAN : 122
+interacts_with_FGFR1_HUMAN : 176
+interacts_with_FOS_HUMAN : 188
+interacts_with_FOXO1_HUMAN : 200
+interacts_with_FOXO3_HUMAN : 197
+interacts_with_FOXO4_HUMAN : 194
+interacts_with_GATA3_HUMAN : 60
+interacts_with_GCR_HUMAN : 198
+interacts_with_GHR_HUMAN : 157
+interacts_with_GRB10_HUMAN : 183
+interacts_with_GRB14_HUMAN : 132
+interacts_with_GRM1_HUMAN : 146
+interacts_with_GSK3B_HUMAN : 197
+interacts_with_H2AX_HUMAN : 200
+interacts_with_HDAC1_HUMAN : 200
+interacts_with_HDAC2_HUMAN : 163
+interacts_with_HDAC3_HUMAN : 200
+interacts_with_HDAC4_HUMAN : 190
+interacts_with_HDAC6_HUMAN : 200
+interacts_with_HDAC7_HUMAN : 118
+interacts_with_HDAC9_HUMAN : 132
+interacts_with_HIF1A_HUMAN : 200
+interacts_with_HIPK2_HUMAN : 173
+interacts_with_HMGA1_HUMAN : 200
+interacts_with_HNF4A_HUMAN : 196
+interacts_with_HS71A_HUMAN : 192
+interacts_with_HS90A_HUMAN : 200
+interacts_with_HSF1_HUMAN : 197
+interacts_with_HSP74_HUMAN : 200
+interacts_with_IASPP_HUMAN : 200
+interacts_with_IDE_HUMAN : 99
+interacts_with_IGF1R_HUMAN : 200
+interacts_with_IKKA_HUMAN : 200
+interacts_with_IKKB_HUMAN : 200
+interacts_with_IL2RB_HUMAN : 198
+interacts_with_IL3RB_HUMAN : 173
+interacts_with_ING1_HUMAN : 166
+interacts_with_INSR_HUMAN : 168
+interacts_with_IRS1_HUMAN : 200
+interacts_with_IRS2_HUMAN : 168
+interacts_with_JAK1_HUMAN : 84
+interacts_with_JAK2_HUMAN : 199
+interacts_with_JUN_HUMAN : 200
+interacts_with_KAISO_HUMAN : 109
+interacts_with_KAT2B_HUMAN : 200
+interacts_with_KAT5_HUMAN : 200
+interacts_with_KDM1A_HUMAN : 174
+interacts_with_KDM2A_HUMAN : 198
+interacts_with_KDM4A_HUMAN : 131
+interacts_with_KLF4_HUMAN : 197
+interacts_with_KLF5_HUMAN : 200
+interacts_with_KPCA_HUMAN : 132
+interacts_with_KPCB_HUMAN : 146
+interacts_with_KPCD_HUMAN : 194
+interacts_with_KS6A3_HUMAN : 76
+interacts_with_KS6A5_HUMAN : 194
+interacts_with_KS6B1_HUMAN : 199
+interacts_with_M3K5_HUMAN : 144
+interacts_with_MAF_HUMAN : 197
+interacts_with_MCR_HUMAN : 95
+interacts_with_MDC1_HUMAN : 142
+interacts_with_MDM2_HUMAN : 200
+interacts_with_MDM4_HUMAN : 200
+interacts_with_MEN1_HUMAN : 174
+interacts_with_MERL_HUMAN : 164
+interacts_with_MET_HUMAN : 195
+interacts_with_MIS_HUMAN : 125
+interacts_with_MK01_HUMAN : 200
+interacts_with_MK08_HUMAN : 200
+interacts_with_MK11_HUMAN : 121
+interacts_with_MK14_HUMAN : 200
+interacts_with_MP2K1_HUMAN : 169
+interacts_with_MP2K3_HUMAN : 185
+interacts_with_MSH2_HUMAN : 200
+interacts_with_MSH4_HUMAN : 6
+interacts_with_MTA1_HUMAN : 163
+interacts_with_MTOR_HUMAN : 200
+interacts_with_MUC1_HUMAN : 196
+interacts_with_MYC_HUMAN : 200
+interacts_with_NBN_HUMAN : 200
+interacts_with_NCOA1_HUMAN : 200
+interacts_with_NCOA3_HUMAN : 200
+interacts_with_NCOA6_HUMAN : 200
+interacts_with_NCOR1_HUMAN : 199
+interacts_with_NCOR2_HUMAN : 200
+interacts_with_NF2L2_HUMAN : 198
+interacts_with_NFAC2_HUMAN : 199
+interacts_with_NFKB1_HUMAN : 198
+interacts_with_NKX21_HUMAN : 196
+interacts_with_NR1H4_HUMAN : 179
+interacts_with_NR2C1_HUMAN : 71
+interacts_with_NUB1_HUMAN : 176
+interacts_with_P53_HUMAN : 200
+interacts_with_P73_HUMAN : 200
+interacts_with_P85A_HUMAN : 200
+interacts_with_P85B_HUMAN : 181
+interacts_with_PAK1_HUMAN : 118
+interacts_with_PAK6_HUMAN : 108
+interacts_with_PARK7_HUMAN : 181
+interacts_with_PARP1_HUMAN : 200
+interacts_with_PCNA_HUMAN : 200
+interacts_with_PELI1_HUMAN : 139
+interacts_with_PER2_HUMAN : 71
+interacts_with_PGFRA_HUMAN : 200
+interacts_with_PGFRB_HUMAN : 195
+interacts_with_PIAS1_HUMAN : 199
+interacts_with_PLK1_HUMAN : 177
+interacts_with_PLMN_HUMAN : 33
+interacts_with_PML_HUMAN : 200
+interacts_with_PO2F1_HUMAN : 200
+interacts_with_POLH_HUMAN : 150
+interacts_with_PPARG_HUMAN : 200
+interacts_with_PRGC1_HUMAN : 185
+interacts_with_PRGR_HUMAN : 200
+interacts_with_PRKDC_HUMAN : 200
+interacts_with_PSD10_HUMAN : 141
+interacts_with_PTMS_HUMAN : 132
+interacts_with_PTN11_HUMAN : 200
+interacts_with_RAD50_HUMAN : 51
+interacts_with_RAD51_HUMAN : 200
+interacts_with_RAD52_HUMAN : 200
+interacts_with_RAF1_HUMAN : 199
+interacts_with_RARA_HUMAN : 200
+interacts_with_RB_HUMAN : 200
+interacts_with_RL37_HUMAN : 7
+interacts_with_RN168_HUMAN : 67
+interacts_with_RON_HUMAN : 185
+interacts_with_RPB1_HUMAN : 126
+interacts_with_RUNX1_HUMAN : 164
+interacts_with_RUNX2_HUMAN : 199
+interacts_with_RXRA_HUMAN : 200
+interacts_with_SATB1_HUMAN : 187
+interacts_with_SETD7_HUMAN : 183
+interacts_with_SGK1_HUMAN : 11
+interacts_with_SH2B1_HUMAN : 200
+interacts_with_SH2B2_HUMAN : 12
+interacts_with_SHC1_HUMAN : 200
+interacts_with_SIR1_HUMAN : 200
+interacts_with_SKP2_HUMAN : 200
+interacts_with_SLTM_HUMAN : 191
+interacts_with_SLX4_HUMAN : 197
+interacts_with_SMAD3_HUMAN : 200
+interacts_with_SMAD4_HUMAN : 156
+interacts_with_SMCA2_HUMAN : 197
+interacts_with_SMCA4_HUMAN : 199
+interacts_with_SNAI2_HUMAN : 140
+interacts_with_SOCS1_HUMAN : 200
+interacts_with_SOCS3_HUMAN : 200
+interacts_with_SP1_HUMAN : 200
+interacts_with_SP3_HUMAN : 197
+interacts_with_SPIB_HUMAN : 198
+interacts_with_SPTA1_HUMAN : 200
+interacts_with_SRC_HUMAN : 200
+interacts_with_STAT1_HUMAN : 200
+interacts_with_STAT3_HUMAN : 200
+interacts_with_SUMO1_HUMAN : 151
+interacts_with_T22D3_HUMAN : 197
+interacts_with_TAF6_HUMAN : 92
+interacts_with_TDG_HUMAN : 198
+interacts_with_TERT_HUMAN : 170
+interacts_with_TF2H1_HUMAN : 199
+interacts_with_TF2H2_HUMAN : 9
+interacts_with_TF65_HUMAN : 200
+interacts_with_THA_HUMAN : 191
+interacts_with_THB_HUMAN : 141
+interacts_with_TIF1A_HUMAN : 73
+interacts_with_TOP2A_HUMAN : 153
+interacts_with_TOP2B_HUMAN : 118
+interacts_with_TOPB1_HUMAN : 200
+interacts_with_TOPRS_HUMAN : 144
+interacts_with_TP53B_HUMAN : 200
+interacts_with_TYY1_HUMAN : 199
+interacts_with_UBC9_HUMAN : 200
+interacts_with_UBF1_HUMAN : 85
+interacts_with_UBP7_HUMAN : 141
+interacts_with_UHRF1_HUMAN : 99
+interacts_with_UHRF2_HUMAN : 200
+interacts_with_VDR_HUMAN : 200
+interacts_with_VEGFA_HUMAN : 160
+interacts_with_VHL_HUMAN : 198
+interacts_with_WRN_HUMAN : 200
+interacts_with_XPA_HUMAN : 39
+interacts_with_XPF_HUMAN : 2
+interacts_with_XRCC1_HUMAN : 189
+interacts_with_XRCC5_HUMAN : 195
+interacts_with_ZBT16_HUMAN : 196
+interacts_with_ZBT7A_HUMAN : 200
+interacts_with_ZDH18_HUMAN : 199
+interacts_with_ZDH23_HUMAN : 199
+interacts_with_ZN420_HUMAN : 129
+GO:0001774 : microglial cell activation : 158
+GO:0001936 : regulation of endothelial cell proliferation : 195
+GO:0001938 : positive regulation of endothelial cell proliferation : 195
+GO:0002269 : leukocyte activation involved in inflammatory response : 158
+GO:0006268 : DNA unwinding involved in DNA replication : 38
+GO:0006977 : DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest : 153
+GO:0008631 : intrinsic apoptotic signaling pathway in response to oxidative stress : 75
+GO:0009409 : response to cold : 31
+GO:0009895 : negative regulation of catabolic process : 167
+GO:0016569 : covalent chromatin modification : 132
+GO:0016570 : histone modification : 132
+GO:0016575 : histone deacetylation : 132
+GO:0032479 : regulation of type I interferon production : 58
+GO:0032481 : positive regulation of type I interferon production : 58
+GO:0042116 : macrophage activation : 158
+GO:0042306 : regulation of protein import into nucleus : 150
+GO:0042307 : positive regulation of protein import into nucleus : 150
+GO:0043393 : regulation of protein binding : 47
+GO:0046822 : regulation of nucleocytoplasmic transport : 148
+GO:0046824 : positive regulation of nucleocytoplasmic transport : 148
+GO:0048646 : anatomical structure formation involved in morphogenesis : 62
+GO:0048661 : positive regulation of smooth muscle cell proliferation : 169
+GO:0070932 : histone H3 deacetylation : 131
+GO:0071156 : regulation of cell cycle arrest : 153
+GO:0071158 : positive regulation of cell cycle arrest : 153
+GO:0072395 : signal transduction involved in cell cycle checkpoint : 152
+GO:0072401 : signal transduction involved in DNA integrity checkpoint : 152
+GO:0072413 : signal transduction involved in mitotic cell cycle checkpoint : 151
+GO:0072422 : signal transduction involved in DNA damage checkpoint : 151
+GO:0072431 : signal transduction involved in mitotic G1 DNA damage checkpoint : 149
+GO:1902400 : intracellular signal transduction involved in G1 DNA damage checkpoint : 147
+GO:1902402 : signal transduction involved in mitotic DNA damage checkpoint : 147
+GO:1902403 : signal transduction involved in mitotic DNA integrity checkpoint : 146
+GO:1903047 : mitotic cell cycle process : 180
+GO:1904589 : regulation of protein import : 148
+GO:1904591 : positive regulation of protein import : 148
+GO:1904707 : positive regulation of vascular smooth muscle cell proliferation : 67
+GO:1905562 : regulation of vascular endothelial cell proliferation : 157
+GO:1905564 : positive regulation of vascular endothelial cell proliferation : 157
+interacts_with_AP2A_HUMAN : 110
+interacts_with_ATTY_HUMAN : 38
+interacts_with_CDC27_HUMAN : 134
+interacts_with_CHFR_HUMAN : 152
+interacts_with_DAPK3_HUMAN : 62
+interacts_with_DDB2_HUMAN : 131
+interacts_with_DNMT1_HUMAN : 158
+interacts_with_DPOLB_HUMAN : 86
+interacts_with_FBXW7_HUMAN : 99
+interacts_with_HDAC5_HUMAN : 62
+interacts_with_HERC5_HUMAN : 31
+interacts_with_HMGA2_HUMAN : 99
+interacts_with_KCNH2_HUMAN : 42
+interacts_with_MAX_HUMAN : 59
+interacts_with_MCL1_HUMAN : 42
+interacts_with_MGMT_HUMAN : 126
+interacts_with_MP2K4_HUMAN : 159
+interacts_with_MP2K5_HUMAN : 190
+interacts_with_NFAC1_HUMAN : 114
+interacts_with_NR0B2_HUMAN : 66
+interacts_with_NR1D1_HUMAN : 20
+interacts_with_PAR10_HUMAN : 153
+interacts_with_PK3CA_HUMAN : 165
+interacts_with_PLCG1_HUMAN : 78
+interacts_with_PTEN_HUMAN : 109
+interacts_with_RECQ5_HUMAN : 92
+interacts_with_RIR2B_HUMAN : 20
+interacts_with_SKI_HUMAN : 105
+interacts_with_SMYD2_HUMAN : 65
+interacts_with_SOX4_HUMAN : 128
+interacts_with_SRBP1_HUMAN : 80
+interacts_with_SUMO2_HUMAN : 79
+interacts_with_TAL1_HUMAN : 105
+interacts_with_TBL1X_HUMAN : 102
+interacts_with_TBX3_HUMAN : 164
+interacts_with_TGIF1_HUMAN : 122
+interacts_with_TIE2_HUMAN : 33
+interacts_with_VGFR1_HUMAN : 5
+GO:0006091 : generation of precursor metabolites and energy : 38
+GO:0006112 : energy reserve metabolic process : 37
+GO:0006282 : regulation of DNA repair : 4
+GO:0015980 : energy derivation by oxidation of organic compounds : 37
+GO:0044281 : small molecule metabolic process : 85
+GO:0045739 : positive regulation of DNA repair : 4
+GO:0055114 : oxidation-reduction process : 36
+GO:0060749 : mammary gland alveolus development : 12
+GO:0061029 : eyelid development in camera-type eye : 114
+GO:0070849 : response to epidermal growth factor : 60
+GO:0071364 : cellular response to epidermal growth factor stimulus : 60
+GO:1905475 : regulation of protein localization to membrane : 129
+GO:1905477 : positive regulation of protein localization to membrane : 129
+GO:2001020 : regulation of response to DNA damage stimulus : 4
+GO:2001022 : positive regulation of response to DNA damage stimulus : 4
+interacts_with_ACK1_HUMAN : 62
+interacts_with_DPOD3_HUMAN : 116
+interacts_with_GRAB_HUMAN : 102
+interacts_with_GRB2_HUMAN : 72
+interacts_with_HIRA_HUMAN : 64
+interacts_with_IL6RB_HUMAN : 112
+interacts_with_LEPR_HUMAN : 19
+interacts_with_MACD1_HUMAN : 61
+interacts_with_MAT1_HUMAN : 19
+interacts_with_MATK_HUMAN : 123
+interacts_with_OBRG_HUMAN : 6
+interacts_with_PIAS2_HUMAN : 46
+interacts_with_PIT1_HUMAN : 101
+interacts_with_PTMA_HUMAN : 38
+interacts_with_RFWD3_HUMAN : 40
+interacts_with_RORG_HUMAN : 25
+interacts_with_SRY_HUMAN : 13
+interacts_with_TAU_HUMAN : 48
+interacts_with_TBPL1_HUMAN : 13
+interacts_with_TOP1_HUMAN : 102
+interacts_with_UBN1_HUMAN : 154
+GO:0001836 : release of cytochrome c from mitochondria : 108
+GO:0006275 : regulation of DNA replication : 65
+GO:0007088 : regulation of mitotic nuclear division : 39
+GO:0007589 : body fluid secretion : 27
+GO:0007595 : lactation : 27
+GO:0008637 : apoptotic mitochondrial changes : 106
+GO:0010677 : negative regulation of cellular carbohydrate metabolic process : 80
+GO:0010981 : regulation of cell wall macromolecule metabolic process : 70
+GO:0014065 : phosphatidylinositol 3-kinase signaling : 71
+GO:0042594 : response to starvation : 68
+GO:0045740 : positive regulation of DNA replication : 65
+GO:0045820 : negative regulation of glycolytic process : 79
+GO:0045840 : positive regulation of mitotic nuclear division : 37
+GO:0045912 : negative regulation of carbohydrate metabolic process : 79
+GO:0045980 : negative regulation of nucleotide metabolic process : 78
+GO:0046626 : regulation of insulin receptor signaling pathway : 52
+GO:0048732 : gland development : 21
+GO:0051783 : regulation of nuclear division : 37
+GO:0051785 : positive regulation of nuclear division : 37
+GO:0055081 : anion homeostasis : 35
+GO:0055089 : fatty acid homeostasis : 34
+GO:0062014 : negative regulation of small molecule metabolic process : 77
+GO:0070102 : interleukin-6-mediated signaling pathway : 13
+GO:0120161 : regulation of cold-induced thermogenesis : 36
+GO:0120162 : positive regulation of cold-induced thermogenesis : 36
+GO:1900076 : regulation of cellular response to insulin stimulus : 52
+GO:1900543 : negative regulation of purine nucleotide metabolic process : 77
+GO:1903338 : regulation of cell wall organization or biogenesis : 68
+GO:1903579 : negative regulation of ATP metabolic process : 75
+GO:1990089 : response to nerve growth factor : 55
+GO:1990090 : cellular response to nerve growth factor stimulus : 54
+GO:2000773 : negative regulation of cellular senescence : 68
+GO:2000924 : regulation of cellodextrin metabolic process : 68
+GO:2000966 : regulation of cell wall polysaccharide catabolic process : 68
+GO:2001000 : regulation of xylan catabolic process : 68
+interacts_with_CCNA1_HUMAN : 90
+interacts_with_CDT1_HUMAN : 41
+interacts_with_COMD1_HUMAN : 40
+interacts_with_ERD22_HUMAN : 115
+interacts_with_FZR1_HUMAN : 86
+interacts_with_GA45A_HUMAN : 125
+interacts_with_HGF_HUMAN : 30
+interacts_with_IKBB_HUMAN : 64
+interacts_with_JIP1_HUMAN : 56
+interacts_with_LCK_HUMAN : 4
+interacts_with_MP2K6_HUMAN : 33
+interacts_with_MUTYH_HUMAN : 24
+interacts_with_PTPA_HUMAN : 36
+interacts_with_RASA1_HUMAN : 63
+GO:0006366 : transcription by RNA polymerase II : 99
+GO:0007093 : mitotic cell cycle checkpoint : 74
+GO:0010563 : negative regulation of phosphorus metabolic process : 80
+GO:0042326 : negative regulation of phosphorylation : 79
+GO:0045936 : negative regulation of phosphate metabolic process : 79
+GO:2000573 : positive regulation of DNA biosynthetic process : 77
+interacts_with_ARAF_HUMAN : 61
+interacts_with_FAF1_HUMAN : 105
+interacts_with_MSH6_HUMAN : 119
+interacts_with_PIM1_HUMAN : 14
+GO:0018107 : peptidyl-threonine phosphorylation : 35
+GO:0018210 : peptidyl-threonine modification : 35
+GO:0032091 : negative regulation of protein binding : 24
+GO:0071496 : cellular response to external stimulus : 7
+interacts_with_CREB1_HUMAN : 71
+interacts_with_K2C72_HUMAN : 47
+interacts_with_NR4A1_HUMAN : 31
+interacts_with_TNR1A_HUMAN : 62
+interacts_with_UBE2S_HUMAN : 62
+GO:0031400 : negative regulation of protein modification process : 32
+interacts_with_ERBB3_HUMAN : 42
+GO:0001558 : regulation of cell growth : 32
+GO:0034976 : response to endoplasmic reticulum stress : 37
+GO:1902532 : negative regulation of intracellular signal transduction : 51
+interacts_with_CDN1B_HUMAN : 41
+interacts_with_HNF1A_HUMAN : 78
+interacts_with_LRIG3_HUMAN : 65
+interacts_with_NRIP1_HUMAN : 11
+interacts_with_SNX4_HUMAN : 38
+interacts_with_VAV_HUMAN : 10
+GO:0006351 : transcription, DNA-templated : 37
+GO:0035728 : response to hepatocyte growth factor : 14
+GO:0035729 : cellular response to hepatocyte growth factor stimulus : 14
+GO:0051348 : negative regulation of transferase activity : 2
+GO:0097659 : nucleic acid-templated transcription : 37
+interacts_with_CBLC_HUMAN : 53
+interacts_with_LTOR5_HUMAN : 1
+interacts_with_MP2K7_HUMAN : 6
+interacts_with_XIAP_HUMAN : 47
+interacts_with_XRCC6_HUMAN : 4
+GO:0006986 : response to unfolded protein : 14
+GO:0035966 : response to topologically incorrect protein : 14
+GO:0050767 : regulation of neurogenesis : 27
+GO:0051129 : negative regulation of cellular component organization : 7
+GO:0051960 : regulation of nervous system development : 27
+GO:0060284 : regulation of cell development : 27
+GO:1901099 : negative regulation of signal transduction in absence of ligand : 43
+GO:2001239 : regulation of extrinsic apoptotic signaling pathway in absence of ligand : 42
+GO:2001240 : negative regulation of extrinsic apoptotic signaling pathway in absence of ligand : 42
+interacts_with_ERRFI_HUMAN : 20
+interacts_with_GRAA_HUMAN : 15
+interacts_with_RAD9A_HUMAN : 35
+interacts_with_RN115_HUMAN : 52
+GO:0000717 : nucleotide-excision repair, DNA duplex unwinding : 16
+interacts_with_BAX_HUMAN : 33
+interacts_with_CDK7_HUMAN : 22
+interacts_with_FEN1_HUMAN : 16
+interacts_with_NSD2_HUMAN : 2
+interacts_with_RFC1_HUMAN : 14
+interacts_with_CAF1A_HUMAN : 21
+interacts_with_CSN5_HUMAN : 10
+interacts_with_XPC_HUMAN : 9
+GO:0046889 : positive regulation of lipid biosynthetic process : 9
+GO:0046890 : regulation of lipid biosynthetic process : 9
+interacts_with_ERCC1_HUMAN : 5
+interacts_with_FAK2_HUMAN : 30
+interacts_with_NTRK2_HUMAN : 18
+GO:0031293 : membrane protein intracellular domain proteolysis : 7
+GO:0033619 : membrane protein proteolysis : 7
+interacts_with_YAP1_HUMAN : 11
+GO:0030098 : lymphocyte differentiation : 29
+interacts_with_HSP7C_HUMAN : 19
+interacts_with_PP1A_HUMAN : 13
+GO:2000378 : negative regulation of reactive oxygen species metabolic process : 19
+GO:0051649 : establishment of localization in cell : 8
+interacts_with_UBE3A_HUMAN : 1
+interacts_with_SNAI1_HUMAN : 7
+GO:0048662 : negative regulation of smooth muscle cell proliferation : 4
+GO:1904706 : negative regulation of vascular smooth muscle cell proliferation : 4
+interacts_with_PRKN_HUMAN : 4
+interacts_with_SOS1_HUMAN : 3
+interacts_with_CNTP1_HUMAN : 15
+interacts_with_COP1_HUMAN : 7
+interacts_with_CRK_HUMAN : 8
+GO:0032469 : endoplasmic reticulum calcium ion homeostasis : 2
+GO:0046628 : positive regulation of insulin receptor signaling pathway : 3
+GO:1900078 : positive regulation of cellular response to insulin stimulus : 3
+interacts_with_EDF1_HUMAN : 2
+interacts_with_SHB_HUMAN : 13
+GO:0038083 : peptidyl-tyrosine autophosphorylation : 5
+interacts_with_ASF1A_HUMAN : 3
+interacts_with_SHC4_HUMAN : 7
+GO:0046425 : regulation of receptor signaling pathway via JAK-STAT : 5
+GO:0046427 : positive regulation of receptor signaling pathway via JAK-STAT : 5
+GO:1904892 : regulation of receptor signaling pathway via STAT : 5
+GO:1904894 : positive regulation of receptor signaling pathway via STAT : 5
+interacts_with_COT2_HUMAN : 9
+interacts_with_RHG22_HUMAN : 16
+interacts_with_ERG_HUMAN : 7
+interacts_with_NFYB_HUMAN : 11
+interacts_with_TFDP1_HUMAN : 2
+interacts_with_CDK9_HUMAN : 9
+GO:0006638 : neutral lipid metabolic process : 2
+GO:0006639 : acylglycerol metabolic process : 2
+GO:0006641 : triglyceride metabolic process : 2
+interacts_with_ARI4A_HUMAN : 4
+interacts_with_CHD1L_HUMAN : 4
+interacts_with_CEBPG_HUMAN : 7
+GO:0050776 : regulation of immune response : 8
+interacts_with_ETV6_HUMAN : 12
+interacts_with_PO2F2_HUMAN : 3
+GO:0045821 : positive regulation of glycolytic process : 4
+GO:0045981 : positive regulation of nucleotide metabolic process : 4
+GO:1900544 : positive regulation of purine nucleotide metabolic process : 4
+GO:1903580 : positive regulation of ATP metabolic process : 4
+interacts_with_CTBP1_HUMAN : 11
+GO:0008283 : cell population proliferation : 6
+interacts_with_MBD4_HUMAN : 7
+GO:0046903 : secretion : 3
+interacts_with_CTBP2_HUMAN : 5
+interacts_with_PA2G4_HUMAN : 5
+interacts_with_CD3D_HUMAN : 1
+interacts_with_EPOR_HUMAN : 3
+interacts_with_M3K8_HUMAN : 1
+interacts_with_STA5A_HUMAN : 4
+interacts_with_TBP_HUMAN : 1
+interacts_with_HCFC1_HUMAN : 2
+GO:0006508 : proteolysis : 5
+interacts_with_GABPA_HUMAN : 4
+interacts_with_TAB2_HUMAN : 3
+interacts_with_UIMC1_HUMAN : 1
+interacts_with_HLTF_HUMAN : 3
+GO:0042102 : positive regulation of T cell proliferation : 5
+GO:0042104 : positive regulation of activated T cell proliferation : 5
+GO:0042129 : regulation of T cell proliferation : 5
+GO:0046006 : regulation of activated T cell proliferation : 5
+interacts_with_BC11A_HUMAN : 1
+interacts_with_JDP2_HUMAN : 5
+interacts_with_BCL9_HUMAN : 1
+interacts_with_MPIP1_HUMAN : 2
+interacts_with_ORC3_HUMAN : 3
+GO:0038034 : signal transduction in absence of ligand : 1
+GO:0097192 : extrinsic apoptotic signaling pathway in absence of ligand : 1
+interacts_with_VCAM1_HUMAN : 1
+interacts_with_PSMD4_HUMAN : 2
+GO:0048608 : reproductive structure development : 3
+interacts_with_GELS_HUMAN : 2
+interacts_with_BATF2_HUMAN : 1
+GO:1902003 : regulation of amyloid-beta formation : 1
+GO:1902004 : positive regulation of amyloid-beta formation : 1
+GO:1902991 : regulation of amyloid precursor protein catabolic process : 1
+GO:1902993 : positive regulation of amyloid precursor protein catabolic process : 1
+interacts_with_MYB_HUMAN : 3
+GO:0031960 : response to corticosteroid : 4
+GO:0048545 : response to steroid hormone : 4
+GO:0051384 : response to glucocorticoid : 4
+interacts_with_CCAR2_HUMAN : 1
+interacts_with_PIDD1_HUMAN : 1
+interacts_with_NR1I2_HUMAN : 1
+interacts_with_GCM1_HUMAN : 2
+interacts_with_PLCG2_HUMAN : 2
+interacts_with_CEBPE_HUMAN : 1
+interacts_with_IBP7_HUMAN : 1
+interacts_with_DHX9_HUMAN : 1

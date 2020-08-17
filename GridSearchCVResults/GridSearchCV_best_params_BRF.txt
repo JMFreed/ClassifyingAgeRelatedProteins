@@ -1,0 +1,178 @@
+
+Iteration: 0
+CV number: 0
+Best parameters: {'max_features': 'log2', 'n_estimators': 200}
+Iteration: 0
+CV number: 1
+Best parameters: {'max_features': 'log2', 'n_estimators': 100}
+Iteration: 0
+CV number: 2
+Best parameters: {'max_features': 'log2', 'n_estimators': 500}
+Iteration: 0
+CV number: 3
+Best parameters: {'max_features': 'log2', 'n_estimators': 500}
+Iteration: 0
+CV number: 4
+Best parameters: {'max_features': 'log2', 'n_estimators': 500}
+Iteration: 0
+CV number: 5
+Best parameters: {'max_features': 'log2', 'n_estimators': 200}
+Iteration: 0
+CV number: 6
+Best parameters: {'max_features': 'log2', 'n_estimators': 100}
+Iteration: 0
+CV number: 7
+Best parameters: {'max_features': 'log2', 'n_estimators': 500}
+Iteration: 0
+CV number: 8
+Best parameters: {'max_features': 'log2', 'n_estimators': 100}
+Iteration: 0
+CV number: 9
+Best parameters: {'max_features': 'log2', 'n_estimators': 100}
+Iteration: 1
+CV number: 0
+Best parameters: {'max_features': 'log2', 'n_estimators': 500}
+Iteration: 1
+CV number: 1
+Best parameters: {'max_features': 'log2', 'n_estimators': 500}
+Iteration: 1
+CV number: 2
+Best parameters: {'max_features': 'log2', 'n_estimators': 100}
+Iteration: 1
+CV number: 3
+Best parameters: {'max_features': 'log2', 'n_estimators': 100}
+Iteration: 1
+CV number: 4
+Best parameters: {'max_features': 'log2', 'n_estimators': 500}
+Iteration: 1
+CV number: 5
+Best parameters: {'max_features': 'log2', 'n_estimators': 200}
+Iteration: 1
+CV number: 6
+Best parameters: {'max_features': 'log2', 'n_estimators': 500}
+Iteration: 1
+CV number: 7
+Best parameters: {'max_features': 'log2', 'n_estimators': 100}
+Iteration: 1
+CV number: 8
+Best parameters: {'max_features': 'log2', 'n_estimators': 200}
+Iteration: 1
+CV number: 9
+Best parameters: {'max_features': 'log2', 'n_estimators': 200}
+Iteration: 2
+CV number: 0
+Best parameters: {'max_features': 'log2', 'n_estimators': 1000}
+Iteration: 2
+CV number: 1
+Best parameters: {'max_features': 'log2', 'n_estimators': 200}
+Iteration: 2
+CV number: 2
+Best parameters: {'max_features': 'log2', 'n_estimators': 1000}
+Iteration: 2
+CV number: 3
+Best parameters: {'max_features': 'log2', 'n_estimators': 100}
+Iteration: 2
+CV number: 4
+Best parameters: {'max_features': 'log2', 'n_estimators': 200}
+Iteration: 2
+CV number: 5
+Best parameters: {'max_features': 'log2', 'n_estimators': 100}
+Iteration: 2
+CV number: 6
+Best parameters: {'max_features': 'log2', 'n_estimators': 1000}
+Iteration: 2
+CV number: 7
+Best parameters: {'max_features': 'log2', 'n_estimators': 200}
+Iteration: 2
+CV number: 8
+Best parameters: {'max_features': 'log2', 'n_estimators': 100}
+Iteration: 2
+CV number: 9
+Best parameters: {'max_features': 'log2', 'n_estimators': 500}
+Iteration: 3
+CV number: 0
+Best parameters: {'max_features': 'log2', 'n_estimators': 500}
+Iteration: 3
+CV number: 1
+Best parameters: {'max_features': 'log2', 'n_estimators': 500}
+Iteration: 3
+CV number: 2
+Best parameters: {'max_features': 'log2', 'n_estimators': 500}
+Iteration: 3
+CV number: 3
+Best parameters: {'max_features': 'log2', 'n_estimators': 100}
+Iteration: 3
+CV number: 4
+Best parameters: {'max_features': 'log2', 'n_estimators': 100}
+Iteration: 3
+CV number: 5
+Best parameters: {'max_features': 'log2', 'n_estimators': 500}
+Iteration: 3
+CV number: 6
+Best parameters: {'max_features': 'log2', 'n_estimators': 100}
+Iteration: 3
+CV number: 7
+Best parameters: {'max_features': 'log2', 'n_estimators': 1000}
+Iteration: 3
+CV number: 8
+Best parameters: {'max_features': 'log2', 'n_estimators': 100}
+Iteration: 3
+CV number: 9
+Best parameters: {'max_features': 'log2', 'n_estimators': 100}
+Iteration: 4
+CV number: 0
+Best parameters: {'max_features': 'log2', 'n_estimators': 100}
+Iteration: 4
+CV number: 1
+Best parameters: {'max_features': 'log2', 'n_estimators': 200}
+Iteration: 4
+CV number: 2
+Best parameters: {'max_features': 'log2', 'n_estimators': 200}
+Iteration: 4
+CV number: 3
+Best parameters: {'max_features': 'log2', 'n_estimators': 100}
+Iteration: 4
+CV number: 4
+Best parameters: {'max_features': 'log2', 'n_estimators': 100}
+Iteration: 4
+CV number: 5
+Best parameters: {'max_features': 'log2', 'n_estimators': 100}
+Iteration: 4
+CV number: 6
+Best parameters: {'max_features': 'log2', 'n_estimators': 200}
+Iteration: 4
+CV number: 7
+Best parameters: {'max_features': 'log2', 'n_estimators': 1000}
+Iteration: 4
+CV number: 8
+Best parameters: {'max_features': 'log2', 'n_estimators': 100}
+Iteration: 4
+CV number: 9
+Best parameters: {'max_features': 'log2', 'n_estimators': 200}
+Iteration: 5
+CV number: 0
+Best parameters: {'max_features': 'log2', 'n_estimators': 500}
+Iteration: 5
+CV number: 1
+Best parameters: {'max_features': 'log2', 'n_estimators': 200}
+Iteration: 5
+CV number: 2
+Best parameters: {'max_features': 'log2', 'n_estimators': 200}
+Iteration: 5
+CV number: 3
+Best parameters: {'max_features': 'log2', 'n_estimators': 100}
+Iteration: 5
+CV number: 4
+Best parameters: {'max_features': 'log2', 'n_estimators': 100}
+Iteration: 5
+CV number: 5
+Best parameters: {'max_features': 'log2', 'n_estimators': 100}
+Iteration: 5
+CV number: 6
+Best parameters: {'max_features': 'log2', 'n_estimators': 1000}
+Iteration: 5
+CV number: 7
+Best parameters: {'max_features': 'log2', 'n_estimators': 500}
+Iteration: 5
+CV number: 8
+Best parameters: {'max_features': 'log2', 'n_estimators': 100}

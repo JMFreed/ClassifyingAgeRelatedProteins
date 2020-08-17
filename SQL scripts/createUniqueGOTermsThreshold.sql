@@ -1,0 +1,43 @@
+IF EXISTS ( SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_NAME = '[GenAgeMGIUniqueGOTermsThreshold=7]' )
+BEGIN
+	DROP TABLE [GenAgeMGIUniqueGOTermsThreshold=7]
+END
+
+CREATE TABLE [GenAgeMGIUniqueGOTermsThreshold=7]
+(
+GOTermID VARCHAR(10)
+)
+
+INSERT INTO [GenAgeMGIUniqueGOTermsThreshold=7]
+
+SELECT DISTINCT ChildGOTermID FROM [GenAgeMGIGOTermHierarchyThreshold=7]
+UNION
+SELECT DISTINCT ChildGOTermID1 FROM [GenAgeMGIGOTermHierarchyThreshold=7]
+UNION
+SELECT DISTINCT ChildGOTermID2 FROM [GenAgeMGIGOTermHierarchyThreshold=7]
+UNION
+SELECT DISTINCT ChildGOTermID3 FROM [GenAgeMGIGOTermHierarchyThreshold=7]
+UNION
+SELECT DISTINCT ChildGOTermID4 FROM [GenAgeMGIGOTermHierarchyThreshold=7]
+UNION
+SELECT DISTINCT ChildGOTermID5 FROM [GenAgeMGIGOTermHierarchyThreshold=7]
+UNION
+SELECT DISTINCT ChildGOTermID6 FROM [GenAgeMGIGOTermHierarchyThreshold=7]
+UNION
+SELECT DISTINCT ChildGOTermID7 FROM [GenAgeMGIGOTermHierarchyThreshold=7]
+UNION
+SELECT DISTINCT ChildGOTermID8 FROM [GenAgeMGIGOTermHierarchyThreshold=7]
+UNION
+SELECT DISTINCT ChildGOTermID9 FROM [GenAgeMGIGOTermHierarchyThreshold=7]
+UNION
+SELECT DISTINCT ChildGOTermID10 FROM [GenAgeMGIGOTermHierarchyThreshold=7]
+UNION
+SELECT DISTINCT ChildGOTermID11 FROM [GenAgeMGIGOTermHierarchyThreshold=7]
+UNION
+SELECT DISTINCT ChildGOTermID12 FROM [GenAgeMGIGOTermHierarchyThreshold=7]
+UNION
+SELECT DISTINCT ChildGOTermID13 FROM [GenAgeMGIGOTermHierarchyThreshold=7]
+UNION
+SELECT DISTINCT ChildGOTermID14 FROM [GenAgeMGIGOTermHierarchyThreshold=7]
+UNION
+SELECT DISTINCT ChildGOTermID15 FROM [GenAgeMGIGOTermHierarchyThreshold=7]

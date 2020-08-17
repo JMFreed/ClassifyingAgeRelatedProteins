@@ -1,0 +1,1192 @@
+
+cell cycle checkpoint , 1000
+DNA damage checkpoint , 1000
+negative regulation of transcription by RNA polymerase II , 1000
+MAPK cascade , 1000
+activation of MAPK activity , 1000
+response to reactive oxygen species , 1000
+telomere maintenance , 1000
+double-strand break repair via homologous recombination , 1000
+recombinational repair , 1000
+non-recombinational repair , 1000
+response to acid chemical , 823
+regulation of neurotransmitter levels , 1000
+angiogenesis , 992
+regulation of cell growth , 999
+response to hypoxia , 1000
+cellular glucose homeostasis , 999
+microglial cell activation , 997
+cell activation , 1000
+regulation of cytokine production , 1000
+positive regulation of cytokine production , 1000
+release of cytochrome c from mitochondria , 998
+embryonic placenta development , 999
+regulation of protein phosphorylation , 1000
+positive regulation of protein phosphorylation , 1000
+regulation of endothelial cell proliferation , 985
+positive regulation of endothelial cell proliferation , 985
+response to molecule of bacterial origin , 999
+hematopoietic progenitor cell differentiation , 609
+leukocyte activation involved in inflammatory response , 996
+myeloid leukocyte activation , 938
+immune system process , 998
+regulation of immune system process , 1000
+positive regulation of immune system process , 1000
+regulation of leukocyte activation , 999
+positive regulation of leukocyte activation , 999
+immune response-regulating signaling pathway , 977
+immune response-regulating cell surface receptor signaling pathway , 975
+response to ischemia , 998
+developmental process involved in reproduction , 1000
+system process , 990
+carbohydrate metabolic process , 958
+regulation of glycogen biosynthetic process , 999
+monosaccharide metabolic process , 957
+glucose metabolic process , 957
+alcohol metabolic process , 766
+regulation of carbohydrate metabolic process , 999
+nucleobase-containing compound metabolic process , 1000
+DNA metabolic process , 1000
+DNA replication , 955
+DNA topological change , 1000
+regulation of DNA replication , 975
+DNA repair , 1000
+regulation of DNA repair , 980
+transcription-coupled nucleotide-excision repair , 1000
+base-excision repair , 994
+nucleotide-excision repair , 1000
+nucleotide-excision repair, preincision complex stabilization , 1000
+nucleotide-excision repair, preincision complex assembly , 1000
+nucleotide-excision repair, DNA incision, 3'-to lesion , 1000
+nucleotide-excision repair, DNA incision, 5'-to lesion , 1000
+double-strand break repair , 1000
+double-strand break repair via nonhomologous end joining , 1000
+DNA recombination , 1000
+transcription, DNA-templated , 1000
+DNA-templated transcription, initiation , 1000
+regulation of transcription, DNA-templated , 1000
+regulation of transcription by RNA polymerase II , 1000
+transcription by RNA polymerase II , 1000
+transcription initiation from RNA polymerase II promoter , 1000
+cellular protein modification process , 1000
+protein phosphorylation , 1000
+protein deacetylation , 1000
+proteolysis , 990
+peptide metabolic process , 949
+cellular modified amino acid metabolic process , 947
+protein import into nucleus , 920
+lipid metabolic process , 988
+neutral lipid metabolic process , 966
+acylglycerol metabolic process , 966
+triglyceride metabolic process , 965
+cellular aromatic compound metabolic process , 1000
+glutathione metabolic process , 947
+sulfur compound metabolic process , 945
+phosphorus metabolic process , 1000
+phosphate-containing compound metabolic process , 1000
+nitrogen compound metabolic process , 1000
+transport , 1000
+intracellular protein transport , 920
+exocytosis , 949
+nucleocytoplasmic transport , 920
+apoptotic process , 1000
+activation of cysteine-type endopeptidase activity involved in apoptotic process , 996
+response to stress , 1000
+cellular response to DNA damage stimulus , 1000
+DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest , 999
+response to oxidative stress , 1000
+organelle organization , 1000
+mitochondrion organization , 1000
+mitochondrial membrane organization , 999
+cell cycle arrest , 1000
+regulation of mitotic nuclear division , 972
+signal transduction , 1000
+cell surface receptor signaling pathway , 1000
+enzyme linked receptor protein signaling pathway , 1000
+transmembrane receptor protein tyrosine kinase signaling pathway , 1000
+epidermal growth factor receptor signaling pathway , 1000
+transmembrane receptor protein serine/threonine kinase signaling pathway , 702
+transforming growth factor beta receptor signaling pathway , 700
+small GTPase mediated signal transduction , 985
+Ras protein signal transduction , 985
+regulation of mitotic cell cycle , 1000
+body fluid secretion , 992
+lactation , 991
+behavior , 990
+learning or memory , 990
+memory , 1000
+circadian rhythm , 1000
+protein localization , 920
+metabolic process , 1000
+steroid metabolic process , 765
+cholesterol metabolic process , 764
+cell death , 1000
+positive regulation of cell population proliferation , 1000
+negative regulation of cell population proliferation , 1000
+insulin receptor signaling pathway , 1000
+determination of adult lifespan , 996
+intrinsic apoptotic signaling pathway in response to DNA damage , 1000
+apoptotic mitochondrial changes , 998
+biosynthetic process , 1000
+macromolecule biosynthetic process , 1000
+response to temperature stimulus , 1000
+response to radiation , 1000
+response to heat , 1000
+response to cold , 986
+response to UV , 1000
+response to light stimulus , 1000
+response to external stimulus , 1000
+response to biotic stimulus , 860
+response to wounding , 822
+response to mechanical stimulus , 997
+response to abiotic stimulus , 1000
+response to toxic substance , 1000
+UV protection , 1000
+response to endogenous stimulus , 1000
+response to hormone , 1000
+response to carbohydrate , 999
+response to hexose , 999
+response to glucose , 999
+regulation of biosynthetic process , 1000
+negative regulation of biosynthetic process , 1000
+positive regulation of biosynthetic process , 1000
+negative regulation of metabolic process , 1000
+positive regulation of metabolic process , 1000
+regulation of catabolic process , 1000
+negative regulation of catabolic process , 738
+positive regulation of catabolic process , 1000
+regulation of signal transduction , 1000
+positive regulation of signal transduction , 1000
+negative regulation of signal transduction , 1000
+cellular process , 1000
+response to extracellular stimulus , 1000
+response to organic substance , 1000
+response to inorganic substance , 1000
+response to metal ion , 1000
+response to X-ray , 999
+response to ionizing radiation , 1000
+response to organonitrogen compound , 1000
+response to gamma radiation , 1000
+regulation of gene expression , 1000
+regulation of autophagy , 1000
+negative regulation of autophagy , 732
+regulation of macromolecule biosynthetic process , 1000
+positive regulation of macromolecule biosynthetic process , 1000
+negative regulation of macromolecule biosynthetic process , 1000
+positive regulation of phosphorus metabolic process , 1000
+regulation of cell cycle process , 1000
+regulation of endothelial cell migration , 1000
+positive regulation of endothelial cell migration , 1000
+positive regulation of macromolecule metabolic process , 1000
+negative regulation of macromolecule metabolic process , 1000
+positive regulation of gene expression , 1000
+negative regulation of gene expression , 1000
+regulation of epithelial cell migration , 1000
+positive regulation of epithelial cell migration , 1000
+positive regulation of organelle organization , 1000
+regulation of cell communication , 1000
+positive regulation of cell communication , 1000
+negative regulation of cell communication , 1000
+regulation of cellular carbohydrate metabolic process , 999
+positive regulation of cellular carbohydrate metabolic process , 999
+regulation of mitochondrion organization , 998
+positive regulation of mitochondrion organization , 998
+regulation of glucose transmembrane transport , 1000
+positive regulation of glucose transmembrane transport , 1000
+regulation of glucose metabolic process , 999
+positive regulation of glucose metabolic process , 999
+regulation of cell death , 1000
+positive regulation of cell death , 1000
+negative regulation of cell cycle process , 1000
+positive regulation of endopeptidase activity , 1000
+positive regulation of peptidase activity , 1000
+regulation of glucan biosynthetic process , 999
+programmed cell death , 1000
+phosphatidylinositol 3-kinase signaling , 991
+regulation of phosphatidylinositol 3-kinase signaling , 1000
+positive regulation of phosphatidylinositol 3-kinase signaling , 1000
+response to organic cyclic compound , 1000
+response to activity , 1000
+protein transport , 918
+peptide transport , 917
+viral process , 1000
+cellular component organization , 1000
+RNA metabolic process , 1000
+sterol metabolic process , 763
+vesicle-mediated transport , 987
+phosphorylation , 1000
+regulation of transforming growth factor beta receptor signaling pathway , 463
+protein import , 915
+peptidyl-serine phosphorylation , 1000
+peptidyl-threonine phosphorylation , 996
+peptidyl-tyrosine phosphorylation , 1000
+heterocycle biosynthetic process , 1000
+peptidyl-amino acid modification , 1000
+peptidyl-serine modification , 1000
+peptidyl-threonine modification , 996
+peptidyl-tyrosine modification , 1000
+regulation of lipid metabolic process , 1000
+regulation of nucleobase-containing compound metabolic process , 1000
+regulation of phosphate metabolic process , 1000
+cytokine-mediated signaling pathway , 1000
+regulation of metabolic process , 1000
+hexose metabolic process , 957
+aromatic compound biosynthetic process , 1000
+protein metabolic process , 1000
+cellular homeostasis , 1000
+developmental maturation , 907
+cell cycle process , 1000
+regulation of cell-cell adhesion , 572
+positive regulation of cell-cell adhesion , 568
+reproductive process , 1000
+regulation of anatomical structure morphogenesis , 952
+cellular component assembly , 1000
+signal transduction by protein phosphorylation , 1000
+regulation of signaling , 1000
+positive regulation of signaling , 1000
+negative regulation of signaling , 1000
+regulation of Wnt signaling pathway , 965
+cell differentiation , 282
+regulation of cell adhesion , 564
+regulation of proteolysis , 1000
+platelet activation , 821
+positive regulation of cell growth , 489
+negative regulation of cell growth , 722
+lung development , 196
+DNA damage response, signal transduction by p53 class mediator , 999
+regulation of cell migration , 1000
+positive regulation of cell migration , 1000
+negative regulation of transforming growth factor beta receptor signaling pathway , 461
+regulation of B cell proliferation , 855
+positive regulation of B cell proliferation , 854
+regeneration , 852
+animal organ regeneration , 852
+lymphocyte costimulation , 555
+T cell costimulation , 551
+regulation of cellular metabolic process , 1000
+negative regulation of cellular metabolic process , 1000
+positive regulation of cellular metabolic process , 1000
+regulation of cellular biosynthetic process , 1000
+negative regulation of cellular biosynthetic process , 1000
+positive regulation of cellular biosynthetic process , 1000
+regulation of cellular catabolic process , 1000
+negative regulation of cellular catabolic process , 724
+positive regulation of cellular catabolic process , 1000
+positive regulation of protein-containing complex assembly , 1000
+regulation of defense response , 1000
+positive regulation of defense response , 1000
+regulation of protein ubiquitination , 983
+regulation of protein modification process , 1000
+negative regulation of protein modification process , 939
+positive regulation of protein modification process , 1000
+DNA integrity checkpoint , 1000
+regulation of protein stability , 1000
+protein destabilization , 581
+response to nutrient levels , 1000
+response to corticosteroid , 981
+negative regulation of protein binding , 997
+regulation of response to external stimulus , 1000
+positive regulation of response to external stimulus , 1000
+activation of protein kinase activity , 1000
+activation of protein kinase B activity , 1000
+telomere organization , 1000
+regulation of cellular protein metabolic process , 1000
+negative regulation of cellular protein metabolic process , 1000
+positive regulation of cellular protein metabolic process , 1000
+response to estradiol , 1000
+regulation of intracellular transport , 1000
+positive regulation of intracellular transport , 1000
+regulation of proteasomal ubiquitin-dependent protein catabolic process , 999
+positive regulation of proteasomal ubiquitin-dependent protein catabolic process , 999
+regulation of type I interferon production , 998
+positive regulation of type I interferon production , 997
+response to lipopolysaccharide , 998
+multicellular organismal process , 1000
+developmental process , 1000
+response to retinoic acid , 818
+regulation of tumor necrosis factor production , 889
+positive regulation of tumor necrosis factor production , 887
+regulation of monooxygenase activity , 1000
+positive regulation of monooxygenase activity , 1000
+RNA biosynthetic process , 1000
+response to insulin , 1000
+cellular response to insulin stimulus , 1000
+cellular response to hormone stimulus , 1000
+regulation of localization , 1000
+regulation of protein localization , 1000
+regulation of polysaccharide metabolic process , 999
+regulation of polysaccharide biosynthetic process , 999
+circadian regulation of gene expression , 1000
+regulation of superoxide anion generation , 997
+positive regulation of superoxide anion generation , 997
+secretion by cell , 949
+regulation of mononuclear cell proliferation , 854
+positive regulation of mononuclear cell proliferation , 854
+protein-containing complex , 949
+macromolecule localization , 914
+regulation of organelle organization , 1000
+regulation of peptidyl-serine phosphorylation , 1000
+positive regulation of peptidyl-serine phosphorylation , 1000
+regulation of intracellular protein transport , 1000
+protein localization to organelle , 913
+carbohydrate homeostasis , 1000
+cellular response to stress , 1000
+positive regulation of kinase activity , 1000
+nucleotide-excision repair, DNA incision , 1000
+response to lipid , 1000
+response to cytokine , 1000
+response to monosaccharide , 999
+cell junction organization , 665
+protein localization to nucleus , 912
+cellular response to oxidative stress , 1000
+cellular response to heat , 1000
+response to tumor necrosis factor , 977
+cellular protein localization , 909
+cellular response to reactive oxygen species , 1000
+cellular response to unfolded protein , 1000
+cellular protein-containing complex assembly , 1000
+cellular nitrogen compound metabolic process , 1000
+cellular response to UV , 1000
+cellular macromolecule biosynthetic process , 1000
+nucleobase-containing compound biosynthetic process , 1000
+regulation of transmembrane transport , 1000
+positive regulation of transmembrane transport , 1000
+response to endoplasmic reticulum stress , 1000
+multicellular organism growth , 946
+intracellular signal transduction , 1000
+protein deacylation , 1000
+cellular response to drug , 1000
+interleukin-12-mediated signaling pathway , 809
+cellular response to topologically incorrect protein , 999
+protein modification process , 1000
+response to decreased oxygen levels , 1000
+cellular response to decreased oxygen levels , 1000
+signal transduction in absence of ligand , 978
+peptidyl-tyrosine autophosphorylation , 981
+Fc receptor signaling pathway , 987
+Fc-epsilon receptor signaling pathway , 838
+interleukin-7-mediated signaling pathway , 1000
+ERBB signaling pathway , 1000
+ERBB2 signaling pathway , 1000
+growth , 945
+regulation of growth , 1000
+regulation of locomotion , 1000
+regulation of multicellular organism growth , 1000
+positive regulation of locomotion , 1000
+positive regulation of multicellular organism growth , 1000
+wound healing , 818
+macrophage activation , 996
+regulation of cell population proliferation , 1000
+regulation of protein catabolic process , 999
+response to chemical , 1000
+regulation of protein import into nucleus , 998
+positive regulation of protein import into nucleus , 998
+regulation of phosphorylation , 1000
+positive regulation of phosphorylation , 1000
+response to drug , 1000
+regulation of tyrosine phosphorylation of STAT protein , 999
+positive regulation of tyrosine phosphorylation of STAT protein , 999
+response to hydrogen peroxide , 1000
+homeostatic process , 1000
+glucose homeostasis , 1000
+regulation of circadian rhythm , 1000
+signal transduction in response to DNA damage , 999
+intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator , 1000
+amide transport , 907
+regulation of apoptotic process , 1000
+positive regulation of apoptotic process , 1000
+negative regulation of apoptotic process , 1000
+regulation of programmed cell death , 1000
+positive regulation of programmed cell death , 1000
+negative regulation of programmed cell death , 1000
+positive regulation of catalytic activity , 1000
+macromolecule metabolic process , 1000
+response to external biotic stimulus , 856
+regulation of protein-containing complex assembly , 1000
+regulation of carbohydrate biosynthetic process , 998
+positive regulation of cysteine-type endopeptidase activity involved in apoptotic process , 1000
+regulation of cysteine-type endopeptidase activity involved in apoptotic process , 1000
+positive regulation of DNA binding , 1000
+regulation of protein binding , 1000
+regulation of MAP kinase activity , 1000
+positive regulation of MAP kinase activity , 1000
+regulation of MAPK cascade , 1000
+positive regulation of MAPK cascade , 1000
+macromolecule modification , 1000
+response to peptide hormone , 1000
+regulation of generation of precursor metabolites and energy , 998
+regulation of neuron apoptotic process , 1000
+negative regulation of neuron apoptotic process , 1000
+positive regulation of neuron apoptotic process , 1000
+regulation of blood vessel endothelial cell migration , 1000
+positive regulation of blood vessel endothelial cell migration , 1000
+regulation of kinase activity , 1000
+regulation of lipid kinase activity , 999
+regulation of phosphatidylinositol 3-kinase activity , 999
+positive regulation of phosphatidylinositol 3-kinase activity , 999
+cellular amide metabolic process , 943
+protein-containing complex subunit organization , 1000
+regulation of cellular component biogenesis , 1000
+positive regulation of cellular component biogenesis , 1000
+negative regulation of molecular function , 1000
+positive regulation of molecular function , 1000
+cellular metabolic process , 1000
+primary metabolic process , 1000
+cellular biosynthetic process , 1000
+cellular lipid metabolic process , 965
+cellular macromolecule metabolic process , 1000
+cellular protein metabolic process , 1000
+cellular nitrogen compound biosynthetic process , 1000
+small molecule metabolic process , 999
+symbiotic process , 1000
+interspecies interaction between organisms , 1000
+cell cycle phase transition , 557
+mitotic cell cycle phase transition , 552
+regulated exocytosis , 946
+establishment of protein localization , 905
+leukocyte activation , 933
+regulation of nitric oxide biosynthetic process , 1000
+positive regulation of nitric oxide biosynthetic process , 1000
+response to ethanol , 960
+regulation of cell differentiation , 1000
+negative regulation of cell differentiation , 948
+positive regulation of cell differentiation , 1000
+regulation of fat cell differentiation , 946
+negative regulation of fat cell differentiation , 946
+regulation of myeloid cell differentiation , 1000
+positive regulation of myeloid cell differentiation , 1000
+regulation of erythrocyte differentiation , 1000
+positive regulation of erythrocyte differentiation , 1000
+positive regulation of glycogen biosynthetic process , 998
+positive regulation of protein catabolic process , 999
+positive regulation of DNA repair , 980
+positive regulation of DNA replication , 975
+regulation of angiogenesis , 952
+positive regulation of angiogenesis , 952
+positive regulation of cell adhesion , 544
+negative regulation of cell cycle , 1000
+positive regulation of cell cycle , 1000
+positive regulation of lipid metabolic process , 999
+positive regulation of mitotic nuclear division , 972
+regulation of protein kinase activity , 1000
+positive regulation of protein kinase activity , 1000
+positive regulation of proteolysis , 1000
+negative regulation of transcription, DNA-templated , 1000
+positive regulation of transcription, DNA-templated , 1000
+positive regulation of carbohydrate metabolic process , 998
+negative regulation of growth , 715
+positive regulation of growth , 1000
+negative regulation of mitotic cell cycle , 999
+positive regulation of mitotic cell cycle , 1000
+negative regulation of nucleobase-containing compound metabolic process , 1000
+positive regulation of nucleobase-containing compound metabolic process , 1000
+positive regulation of phosphate metabolic process , 1000
+positive regulation of transcription by RNA polymerase II , 1000
+regulation of glucose import , 1000
+positive regulation of glucose import , 1000
+regulation of receptor signaling pathway via JAK-STAT , 999
+positive regulation of receptor signaling pathway via JAK-STAT , 999
+heterocycle metabolic process , 1000
+glycerolipid metabolic process , 965
+regulation of Ras protein signal transduction , 1000
+positive regulation of Ras protein signal transduction , 1000
+response to antibiotic , 1000
+response to cadmium ion , 1000
+protein autophosphorylation , 1000
+regulation of nucleocytoplasmic transport , 998
+positive regulation of nucleocytoplasmic transport , 998
+regulation of mitochondrial membrane permeability , 998
+secretion , 1000
+intracellular transport , 903
+vascular endothelial growth factor receptor signaling pathway , 976
+phosphatidylinositol-mediated signaling , 1000
+inositol lipid-mediated signaling , 1000
+regulation of fibroblast proliferation , 1000
+positive regulation of fibroblast proliferation , 1000
+cell maturation , 905
+rhythmic process , 1000
+animal organ development , 1000
+positive regulation of biological process , 1000
+negative regulation of biological process , 1000
+positive regulation of cellular process , 1000
+negative regulation of cellular process , 1000
+hematopoietic or lymphoid organ development , 993
+thymus development , 992
+response to steroid hormone , 981
+embryonic organ development , 999
+regulation of response to stimulus , 1000
+positive regulation of response to stimulus , 1000
+negative regulation of response to stimulus , 1000
+developmental growth , 945
+regulation of developmental growth , 1000
+positive regulation of developmental growth , 1000
+anatomical structure formation involved in morphogenesis , 992
+regulation of smooth muscle cell proliferation , 1000
+positive regulation of smooth muscle cell proliferation , 1000
+gland development , 994
+anatomical structure development , 1000
+cellular developmental process , 1000
+chemical homeostasis , 1000
+regulation of lymphocyte proliferation , 854
+positive regulation of lymphocyte proliferation , 854
+regulation of epithelial cell proliferation , 1000
+positive regulation of epithelial cell proliferation , 1000
+regulation of inflammatory response , 1000
+positive regulation of inflammatory response , 998
+regulation of peptidyl-tyrosine phosphorylation , 1000
+positive regulation of peptidyl-tyrosine phosphorylation , 1000
+regulation of immune response , 975
+regulation of biological process , 1000
+regulation of catalytic activity , 1000
+regulation of developmental process , 1000
+regulation of cellular process , 1000
+synapse organization , 659
+protein stabilization , 1000
+regulation of T cell activation , 540
+regulation of B cell activation , 854
+regulation of cell activation , 999
+positive regulation of cell activation , 999
+positive regulation of T cell activation , 536
+positive regulation of B cell activation , 854
+nervous system process , 990
+regulation of body fluid levels , 991
+cognition , 990
+response to stimulus , 1000
+regulation of nitric-oxide synthase activity , 1000
+positive regulation of nitric-oxide synthase activity , 1000
+regulation of transport , 1000
+positive regulation of transport , 1000
+regulation of DNA metabolic process , 980
+positive regulation of DNA metabolic process , 980
+regulation of small GTPase mediated signal transduction , 1000
+positive regulation of small GTPase mediated signal transduction , 1000
+regulation of DNA-binding transcription factor activity , 1000
+positive regulation of DNA-binding transcription factor activity , 1000
+positive regulation of NF-kappaB transcription factor activity , 954
+negative regulation of developmental process , 945
+positive regulation of developmental process , 1000
+regulation of binding , 1000
+positive regulation of binding , 1000
+negative regulation of binding , 997
+regulation of DNA binding , 1000
+regulation of cellular component organization , 1000
+positive regulation of cellular component organization , 1000
+nuclear transport , 902
+import into nucleus , 900
+regulation of nitrogen compound metabolic process , 1000
+negative regulation of nitrogen compound metabolic process , 1000
+positive regulation of nitrogen compound metabolic process , 1000
+regulation of phosphorus metabolic process , 1000
+localization , 1000
+cofactor metabolic process , 941
+positive regulation of protein transport , 1000
+regulation of protein transport , 1000
+establishment of localization , 1000
+regulation of multicellular organismal process , 1000
+positive regulation of multicellular organismal process , 1000
+regulation of protein metabolic process , 1000
+positive regulation of protein metabolic process , 1000
+negative regulation of protein metabolic process , 1000
+regulation of lymphocyte activation , 999
+positive regulation of lymphocyte activation , 999
+regulation of RNA metabolic process , 1000
+negative regulation of RNA metabolic process , 1000
+positive regulation of RNA metabolic process , 1000
+regulation of cellular component movement , 1000
+positive regulation of cellular component movement , 1000
+chromosome organization , 1000
+regulation of hydrolase activity , 1000
+regulation of transferase activity , 1000
+regulation of oxidoreductase activity , 1000
+positive regulation of hydrolase activity , 1000
+positive regulation of transferase activity , 1000
+positive regulation of oxidoreductase activity , 1000
+response to glucocorticoid , 981
+neuron apoptotic process , 1000
+cellular localization , 898
+establishment of localization in cell , 1000
+cellular response to stimulus , 1000
+regulation of cell cycle , 1000
+regulation of nuclear division , 972
+positive regulation of nuclear division , 972
+regulation of protein kinase B signaling , 1000
+positive regulation of protein kinase B signaling , 1000
+regulation of peptidase activity , 1000
+regulation of endopeptidase activity , 1000
+cellular chemical homeostasis , 1000
+anatomical structure homeostasis , 1000
+regulation of macromolecule metabolic process , 1000
+regulation of cellular localization , 1000
+growth hormone receptor signaling pathway , 1000
+growth hormone receptor signaling pathway via JAK-STAT , 1000
+negative regulation of cell death , 1000
+regulation of canonical Wnt signaling pathway , 963
+membrane organization , 959
+regulation of proteasomal protein catabolic process , 999
+glial cell activation , 996
+regulation of small molecule metabolic process , 998
+positive regulation of small molecule metabolic process , 998
+cellular response to chemical stress , 1000
+protein-containing complex assembly , 1000
+protein-DNA complex assembly , 1000
+biological regulation , 1000
+regulation of biological quality , 1000
+regulation of molecular function , 1000
+intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress , 1000
+regulation of establishment of protein localization , 1000
+cellular response to hydrogen peroxide , 1000
+regulation of G0 to G1 transition , 871
+negative regulation of G0 to G1 transition , 870
+regulation of ERK1 and ERK2 cascade , 1000
+positive regulation of ERK1 and ERK2 cascade , 1000
+response to oxygen levels , 1000
+regulation of leukocyte proliferation , 852
+positive regulation of leukocyte proliferation , 852
+cellular macromolecule localization , 893
+response to growth factor , 1000
+response to epidermal growth factor , 997
+regulation of glycogen metabolic process , 998
+positive regulation of glycogen metabolic process , 998
+cellular response to chemical stimulus , 1000
+global genome nucleotide-excision repair , 999
+neuron death , 1000
+DNA conformation change , 1000
+regulation of cell cycle arrest , 999
+positive regulation of cell cycle arrest , 999
+cellular response to abiotic stimulus , 1000
+cellular response to acid chemical , 812
+cellular response to antibiotic , 1000
+cellular response to inorganic substance , 999
+cellular response to metal ion , 999
+cellular response to cadmium ion , 999
+cellular response to retinoic acid , 808
+cellular response to organic substance , 1000
+cellular response to carbohydrate stimulus , 999
+cellular response to monosaccharide stimulus , 999
+cellular response to hexose stimulus , 999
+cellular response to glucose stimulus , 999
+cellular response to cytokine stimulus , 974
+cellular response to tumor necrosis factor , 974
+cellular response to growth factor stimulus , 1000
+cellular response to epidermal growth factor stimulus , 997
+cellular response to peptide hormone stimulus , 1000
+cellular response to estradiol stimulus , 890
+cellular response to lipid , 1000
+cellular response to organic cyclic compound , 1000
+cellular response to organonitrogen compound , 1000
+cellular response to oxygen levels , 1000
+cellular response to hypoxia , 1000
+cellular response to radiation , 1000
+cellular response to ionizing radiation , 1000
+cellular response to gamma radiation , 1000
+cellular response to light stimulus , 1000
+cellular response to endogenous stimulus , 1000
+cellular response to external stimulus , 999
+anatomical structure maturation , 904
+organic substance transport , 887
+organic substance metabolic process , 1000
+nitrogen compound transport , 883
+protein-DNA complex subunit organization , 1000
+cellular component organization or biogenesis , 1000
+regulation of protein serine/threonine kinase activity , 1000
+positive regulation of protein serine/threonine kinase activity , 1000
+signal transduction by p53 class mediator , 1000
+intrinsic apoptotic signaling pathway by p53 class mediator , 1000
+signal transduction involved in cell cycle checkpoint , 999
+signal transduction involved in DNA integrity checkpoint , 999
+signal transduction involved in mitotic cell cycle checkpoint , 999
+signal transduction involved in DNA damage checkpoint , 999
+signal transduction involved in mitotic G1 DNA damage checkpoint , 999
+establishment of protein localization to organelle , 880
+regulation of primary metabolic process , 1000
+regulation of response to stress , 1000
+regulation of cellular response to stress , 1000
+positive regulation of cell cycle process , 1000
+regulation of peptide transport , 1000
+regulation of transmembrane receptor protein serine/threonine kinase signaling pathway , 456
+negative regulation of transmembrane receptor protein serine/threonine kinase signaling pathway , 455
+positive regulation of lipid kinase activity , 999
+regulation of cellular response to growth factor stimulus , 452
+negative regulation of cellular response to growth factor stimulus , 449
+nucleic acid metabolic process , 1000
+nucleic acid phosphodiester bond hydrolysis , 1000
+positive regulation of intracellular protein transport , 1000
+regulation of superoxide metabolic process , 997
+regulation of membrane permeability , 998
+apoptotic signaling pathway , 1000
+extrinsic apoptotic signaling pathway , 1000
+extrinsic apoptotic signaling pathway in absence of ligand , 978
+intrinsic apoptotic signaling pathway , 1000
+cellular response to toxic substance , 1000
+response to alcohol , 955
+nucleic acid-templated transcription , 1000
+protein complex involved in cell-cell adhesion , 942
+protein complex involved in cell adhesion , 940
+macromolecule deacylation , 1000
+cellular response to environmental stimulus , 1000
+regulation of cold-induced thermogenesis , 996
+positive regulation of cold-induced thermogenesis , 996
+export from cell , 935
+regulation of cellular response to heat , 1000
+regulation of protein localization to nucleus , 1000
+positive regulation of protein localization to nucleus , 1000
+regulation of cellular response to oxidative stress , 1000
+negative regulation of cellular response to oxidative stress , 1000
+regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway , 998
+positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway , 998
+regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway , 998
+positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway , 998
+negative regulation of signal transduction in absence of ligand , 989
+regulation of neuron death , 1000
+negative regulation of neuron death , 1000
+positive regulation of neuron death , 1000
+regulation of vasculature development , 952
+organic cyclic compound metabolic process , 1000
+organic cyclic compound biosynthetic process , 1000
+organonitrogen compound metabolic process , 1000
+organic substance biosynthetic process , 1000
+organic hydroxy compound metabolic process , 762
+response to peptide , 1000
+cellular response to peptide , 1000
+response to nitrogen compound , 1000
+cellular response to nitrogen compound , 1000
+response to oxygen-containing compound , 1000
+cellular response to oxygen-containing compound , 1000
+regulation of signal transduction by p53 class mediator , 1000
+positive regulation of proteasomal protein catabolic process , 999
+regulation of cell cycle phase transition , 999
+negative regulation of cell cycle phase transition , 999
+regulation of mitotic cell cycle phase transition , 999
+negative regulation of mitotic cell cycle phase transition , 999
+regulation of oxidative stress-induced intrinsic apoptotic signaling pathway , 1000
+negative regulation of oxidative stress-induced intrinsic apoptotic signaling pathway , 1000
+intracellular signal transduction involved in G1 DNA damage checkpoint , 999
+signal transduction involved in mitotic DNA damage checkpoint , 999
+signal transduction involved in mitotic DNA integrity checkpoint , 999
+regulation of intracellular signal transduction , 1000
+negative regulation of intracellular signal transduction , 1000
+positive regulation of intracellular signal transduction , 1000
+secondary alcohol metabolic process , 762
+negative regulation of RNA biosynthetic process , 1000
+positive regulation of RNA biosynthetic process , 1000
+regulation of cell cycle G1/S phase transition , 999
+negative regulation of cell cycle G1/S phase transition , 999
+regulation of response to oxidative stress , 1000
+negative regulation of response to oxidative stress , 1000
+regulation of pri-miRNA transcription by RNA polymerase II , 1000
+positive regulation of pri-miRNA transcription by RNA polymerase II , 1000
+regulation of leukocyte cell-cell adhesion , 535
+positive regulation of leukocyte cell-cell adhesion , 531
+mitotic cell cycle process , 1000
+regulation of proteolysis involved in cellular protein catabolic process , 999
+positive regulation of proteolysis involved in cellular protein catabolic process , 999
+regulation of oxidative stress-induced cell death , 1000
+negative regulation of oxidative stress-induced cell death , 1000
+regulation of protein modification by small protein conjugation or removal , 983
+regulation of cellular protein catabolic process , 999
+positive regulation of cellular protein catabolic process , 999
+regulation of reactive oxygen species biosynthetic process , 1000
+positive regulation of reactive oxygen species biosynthetic process , 1000
+regulation of nucleic acid-templated transcription , 1000
+negative regulation of nucleic acid-templated transcription , 1000
+positive regulation of nucleic acid-templated transcription , 1000
+regulation of tumor necrosis factor superfamily cytokine production , 884
+positive regulation of tumor necrosis factor superfamily cytokine production , 882
+regulation of hemopoiesis , 1000
+positive regulation of hemopoiesis , 1000
+regulation of phospholipid metabolic process , 999
+positive regulation of phospholipid metabolic process , 999
+regulation of establishment of protein localization to mitochondrion , 998
+positive regulation of establishment of protein localization to mitochondrion , 998
+regulation of cellular protein localization , 1000
+positive regulation of cellular protein localization , 1000
+regulation of cellular response to transforming growth factor beta stimulus , 445
+negative regulation of cellular response to transforming growth factor beta stimulus , 442
+positive regulation of vasculature development , 951
+positive regulation of nitric oxide metabolic process , 1000
+regulation of protein import , 998
+positive regulation of protein import , 998
+response to amyloid-beta , 995
+cellular response to amyloid-beta , 995
+regulation of vascular smooth muscle cell proliferation , 993
+positive regulation of vascular smooth muscle cell proliferation , 993
+regulation of receptor signaling pathway via STAT , 999
+positive regulation of receptor signaling pathway via STAT , 999
+positive regulation of establishment of protein localization , 1000
+regulation of protein localization to membrane , 998
+positive regulation of protein localization to membrane , 998
+response to nerve growth factor , 993
+cellular response to nerve growth factor stimulus , 993
+regulation of multicellular organismal development , 1000
+regulation of G1/S transition of mitotic cell cycle , 999
+regulation of ubiquitin-dependent protein catabolic process , 999
+positive regulation of ubiquitin-dependent protein catabolic process , 999
+regulation of cellular macromolecule biosynthetic process , 1000
+negative regulation of cellular macromolecule biosynthetic process , 1000
+regulation of cysteine-type endopeptidase activity , 1000
+negative regulation of G1/S transition of mitotic cell cycle , 999
+regulation of cell motility , 1000
+positive regulation of cell motility , 1000
+regulation of reactive oxygen species metabolic process , 1000
+positive regulation of reactive oxygen species metabolic process , 1000
+regulation of response to DNA damage stimulus , 980
+positive regulation of response to DNA damage stimulus , 980
+positive regulation of cysteine-type endopeptidase activity , 1000
+regulation of RNA biosynthetic process , 1000
+regulation of apoptotic signaling pathway , 1000
+negative regulation of apoptotic signaling pathway , 1000
+positive regulation of apoptotic signaling pathway , 998
+regulation of extrinsic apoptotic signaling pathway , 1000
+negative regulation of extrinsic apoptotic signaling pathway , 1000
+regulation of extrinsic apoptotic signaling pathway in absence of ligand , 988
+negative regulation of extrinsic apoptotic signaling pathway in absence of ligand , 988
+regulation of intrinsic apoptotic signaling pathway , 1000
+negative regulation of intrinsic apoptotic signaling pathway , 1000
+NumberAgeRelatedPartners , 1000
+interacts_with_1433T_HUMAN , 999
+interacts_with_A1ATR_HUMAN , 1000
+interacts_with_ABL1_HUMAN , 1000
+interacts_with_AKT1_HUMAN , 1000
+interacts_with_ANDR_HUMAN , 1000
+interacts_with_ANTR1_HUMAN , 1000
+interacts_with_APEX1_HUMAN , 777
+interacts_with_ARAF_HUMAN , 999
+interacts_with_ARF_HUMAN , 1000
+interacts_with_ARNT_HUMAN , 1000
+interacts_with_ARRB1_HUMAN , 993
+interacts_with_ATF2_HUMAN , 1000
+interacts_with_ATM_HUMAN , 1000
+interacts_with_ATR_HUMAN , 1000
+interacts_with_ATTY_HUMAN , 1000
+interacts_with_ATX3_HUMAN , 1000
+interacts_with_AURKA_HUMAN , 1000
+interacts_with_BCL6_HUMAN , 1000
+interacts_with_BIRC3_HUMAN , 932
+interacts_with_BLM_HUMAN , 1000
+interacts_with_BRCA1_HUMAN , 1000
+interacts_with_CADH1_HUMAN , 632
+interacts_with_CBL_HUMAN , 1000
+interacts_with_CBP_HUMAN , 1000
+interacts_with_CCND1_HUMAN , 1000
+interacts_with_CDC20_HUMAN , 1000
+interacts_with_CDC37_HUMAN , 997
+interacts_with_CDK1_HUMAN , 1000
+interacts_with_CDK2_HUMAN , 1000
+interacts_with_CDK4_HUMAN , 1000
+interacts_with_CDK6_HUMAN , 1000
+interacts_with_CDK9_HUMAN , 1000
+interacts_with_CDN1A_HUMAN , 1000
+interacts_with_CDN2A_HUMAN , 1000
+interacts_with_CEBPA_HUMAN , 1000
+interacts_with_CEBPB_HUMAN , 1000
+interacts_with_CHIP_HUMAN , 1000
+interacts_with_CHK1_HUMAN , 1000
+interacts_with_CHK2_HUMAN , 1000
+interacts_with_CRK_HUMAN , 1000
+interacts_with_CSK21_HUMAN , 1000
+interacts_with_CSK2B_HUMAN , 1000
+interacts_with_CSN5_HUMAN , 1000
+interacts_with_CTBP2_HUMAN , 1000
+interacts_with_CTNB1_HUMAN , 1000
+interacts_with_CUL4A_HUMAN , 1000
+interacts_with_CUL4B_HUMAN , 995
+interacts_with_CUL5_HUMAN , 973
+interacts_with_CUL7_HUMAN , 999
+interacts_with_DAND5_HUMAN , 1000
+interacts_with_DAXX_HUMAN , 1000
+interacts_with_DYR1A_HUMAN , 179
+interacts_with_E2F1_HUMAN , 1000
+interacts_with_EGFR_HUMAN , 1000
+interacts_with_EGLN3_HUMAN , 932
+interacts_with_EP300_HUMAN , 1000
+interacts_with_ERBB2_HUMAN , 1000
+interacts_with_ESR1_HUMAN , 1000
+interacts_with_EZH2_HUMAN , 1000
+interacts_with_FAF1_HUMAN , 1000
+interacts_with_FBW1A_HUMAN , 1000
+interacts_with_FBXW7_HUMAN , 1000
+interacts_with_FINC_HUMAN , 997
+interacts_with_FZR1_HUMAN , 1000
+interacts_with_GCR_HUMAN , 1000
+interacts_with_GRB2_HUMAN , 1000
+interacts_with_GSK3B_HUMAN , 1000
+interacts_with_H2AX_HUMAN , 1000
+interacts_with_HCD2_HUMAN , 869
+interacts_with_HDAC1_HUMAN , 1000
+interacts_with_HDAC2_HUMAN , 1000
+interacts_with_HDAC3_HUMAN , 1000
+interacts_with_HDAC4_HUMAN , 1000
+interacts_with_HDAC5_HUMAN , 1000
+interacts_with_HDAC6_HUMAN , 1000
+interacts_with_HDAC9_HUMAN , 1000
+interacts_with_HEXI1_HUMAN , 811
+interacts_with_HIF1A_HUMAN , 1000
+interacts_with_HS90A_HUMAN , 1000
+interacts_with_HSP74_HUMAN , 1000
+interacts_with_HSP7C_HUMAN , 1000
+interacts_with_HSPB1_HUMAN , 830
+interacts_with_HUWE1_HUMAN , 986
+interacts_with_IGF1R_HUMAN , 1000
+interacts_with_IKKA_HUMAN , 1000
+interacts_with_IKKB_HUMAN , 1000
+interacts_with_IRS1_HUMAN , 1000
+interacts_with_ITA4_HUMAN , 998
+interacts_with_JUN_HUMAN , 1000
+interacts_with_KAT2B_HUMAN , 1000
+interacts_with_KAT5_HUMAN , 1000
+interacts_with_KDM1A_HUMAN , 1000
+interacts_with_KPCA_HUMAN , 1000
+interacts_with_LRRK2_HUMAN , 914
+interacts_with_MAX_HUMAN , 1000
+interacts_with_MDC1_HUMAN , 1000
+interacts_with_MDM2_HUMAN , 1000
+interacts_with_MERL_HUMAN , 1000
+interacts_with_MET14_HUMAN , 993
+interacts_with_MK01_HUMAN , 1000
+interacts_with_MK08_HUMAN , 1000
+interacts_with_MK14_HUMAN , 1000
+interacts_with_MTOR_HUMAN , 1000
+interacts_with_MYC_HUMAN , 1000
+interacts_with_NCOA3_HUMAN , 1000
+interacts_with_NCOA6_HUMAN , 1000
+interacts_with_NCOR1_HUMAN , 1000
+interacts_with_NCOR2_HUMAN , 1000
+interacts_with_NEDD4_HUMAN , 986
+interacts_with_NEMO_HUMAN , 864
+interacts_with_NFAC2_HUMAN , 1000
+interacts_with_NFKB1_HUMAN , 1000
+interacts_with_NKX21_HUMAN , 1000
+interacts_with_NPM_HUMAN , 991
+interacts_with_NTRK1_HUMAN , 1000
+interacts_with_P53_HUMAN , 1000
+interacts_with_P63_HUMAN , 996
+interacts_with_P73_HUMAN , 1000
+interacts_with_P85A_HUMAN , 1000
+interacts_with_PARK7_HUMAN , 1000
+interacts_with_PARP1_HUMAN , 1000
+interacts_with_PCNA_HUMAN , 1000
+interacts_with_PKHA4_HUMAN , 746
+interacts_with_PLK1_HUMAN , 1000
+interacts_with_PML_HUMAN , 1000
+interacts_with_PO5F1_HUMAN , 594
+interacts_with_PP1A_HUMAN , 1000
+interacts_with_PP1G_HUMAN , 679
+interacts_with_PPARG_HUMAN , 1000
+interacts_with_PRKDC_HUMAN , 1000
+interacts_with_PRKN_HUMAN , 1000
+interacts_with_PTEN_HUMAN , 1000
+interacts_with_PTN11_HUMAN , 1000
+interacts_with_RAD51_HUMAN , 1000
+interacts_with_RAF1_HUMAN , 1000
+interacts_with_RARA_HUMAN , 1000
+interacts_with_RB_HUMAN , 1000
+interacts_with_RBX1_HUMAN , 900
+interacts_with_RFA1_HUMAN , 998
+interacts_with_RFA2_HUMAN , 998
+interacts_with_RFA3_HUMAN , 548
+interacts_with_RING2_HUMAN , 272
+interacts_with_RNF4_HUMAN , 990
+interacts_with_RPB1_HUMAN , 1000
+interacts_with_RUNX1_HUMAN , 1000
+interacts_with_RXRA_HUMAN , 1000
+interacts_with_SHC1_HUMAN , 1000
+interacts_with_SIR1_HUMAN , 1000
+interacts_with_SKP2_HUMAN , 1000
+interacts_with_SMAD3_HUMAN , 1000
+interacts_with_SMAD4_HUMAN , 1000
+interacts_with_SMCA4_HUMAN , 1000
+interacts_with_SNAI1_HUMAN , 1000
+interacts_with_SNW1_HUMAN , 972
+interacts_with_SOCS1_HUMAN , 1000
+interacts_with_SODC_HUMAN , 999
+interacts_with_SOX2_HUMAN , 988
+interacts_with_SP1_HUMAN , 1000
+interacts_with_SQSTM_HUMAN , 625
+interacts_with_SRC_HUMAN , 1000
+interacts_with_STAT1_HUMAN , 1000
+interacts_with_STAT3_HUMAN , 1000
+interacts_with_SUMO2_HUMAN , 1000
+interacts_with_SYUA_HUMAN , 948
+interacts_with_TERA_HUMAN , 1000
+interacts_with_TERF1_HUMAN , 828
+interacts_with_TF65_HUMAN , 1000
+interacts_with_TF7L2_HUMAN , 357
+interacts_with_TIF1B_HUMAN , 265
+interacts_with_TP53B_HUMAN , 1000
+interacts_with_TRAF6_HUMAN , 998
+interacts_with_TRI25_HUMAN , 184
+interacts_with_TYY1_HUMAN , 1000
+interacts_with_UBC12_HUMAN , 943
+interacts_with_UBC9_HUMAN , 1000
+interacts_with_UBE3A_HUMAN , 999
+interacts_with_UBP7_HUMAN , 1000
+interacts_with_UHRF2_HUMAN , 1000
+interacts_with_VCAM1_HUMAN , 1000
+interacts_with_VHL_HUMAN , 1000
+interacts_with_VIR_HUMAN , 1000
+interacts_with_WRN_HUMAN , 1000
+interacts_with_XRCC5_HUMAN , 1000
+interacts_with_XRCC6_HUMAN , 1000
+interacts_with_YAP1_HUMAN , 1000
+interacts_with_ZBT7A_HUMAN , 1000
+immune effector process , 553
+Fc receptor mediated stimulatory signaling pathway , 221
+platelet degranulation , 389
+movement of cell or subcellular component , 559
+response to unfolded protein , 988
+cell communication , 545
+response to nutrient , 894
+cell population proliferation , 910
+positive regulation of autophagy , 627
+negative regulation of Wnt signaling pathway , 506
+forebrain development , 802
+negative regulation of protein ubiquitination , 520
+response to topologically incorrect protein , 988
+response to estrogen , 727
+cell redox homeostasis , 673
+cellular response to mechanical stimulus , 889
+negative regulation of canonical Wnt signaling pathway , 501
+negative regulation of protein modification by small protein conjugation or removal , 520
+interacts_with_CUL1_HUMAN , 778
+interacts_with_CUL2_HUMAN , 811
+interacts_with_FUS_HUMAN , 377
+interacts_with_HD_HUMAN , 674
+interacts_with_MCM7_HUMAN , 427
+interacts_with_PHB_HUMAN , 636
+interacts_with_SC6A4_HUMAN , 812
+chromatin organization , 466
+I-kappaB kinase/NF-kappaB signaling , 517
+gamete generation , 78
+positive regulation of cell development , 304
+regulation of neuron differentiation , 301
+positive regulation of neuron differentiation , 292
+negative regulation of epithelial cell proliferation , 335
+regulation of neurogenesis , 286
+positive regulation of neurogenesis , 278
+regulation of nervous system development , 274
+positive regulation of nervous system development , 269
+regulation of cell development , 266
+cellular response to biotic stimulus , 441
+cellular response to molecule of bacterial origin , 432
+cellular response to lipopolysaccharide , 426
+interacts_with_AAR2_HUMAN , 136
+interacts_with_ARRB2_HUMAN , 668
+interacts_with_CDC5L_HUMAN , 698
+interacts_with_PIHD1_HUMAN , 513
+chromatin remodeling , 84
+protein deubiquitination , 387
+protein modification by small protein removal , 382
+interacts_with_A16L1_HUMAN , 548
+interacts_with_AGR2_HUMAN , 144
+interacts_with_NR2C2_HUMAN , 359
+interacts_with_SMUF1_HUMAN , 359
+interacts_with_TNIP2_HUMAN , 14
+negative regulation of peptidase activity , 210
+negative regulation of endopeptidase activity , 202
+regulation of ossification , 369
+negative regulation of catalytic activity , 197
+negative regulation of cysteine-type endopeptidase activity involved in apoptotic process , 188
+negative regulation of proteolysis , 182
+negative regulation of hydrolase activity , 172
+negative regulation of cysteine-type endopeptidase activity , 158
+regulation of osteoblast differentiation , 360
+positive regulation of osteoblast differentiation , 354
+positive regulation of ossification , 347
+activation of immune response , 356
+immune response-activating cell surface receptor signaling pathway , 352
+immune response-regulating cell surface receptor signaling pathway involved in phagocytosis , 218
+immune response-activating signal transduction , 342
+cell migration , 238
+Fc-gamma receptor signaling pathway , 213
+Fc-gamma receptor signaling pathway involved in phagocytosis , 207
+locomotion , 234
+cell motility , 231
+positive regulation of immune response , 337
+interacts_with_BMI1_HUMAN , 72
+interacts_with_FBX6_HUMAN , 257
+heart development , 365
+proteasomal protein catabolic process , 157
+protein catabolic process , 152
+proteasome-mediated ubiquitin-dependent protein catabolic process , 147
+organonitrogen compound catabolic process , 142
+interacts_with_OBSL1_HUMAN , 226
+interacts_with_MCM2_HUMAN , 113
+in utero embryonic development , 7
+regulation of peptide secretion , 49
+embryo development , 7
+embryo development ending in birth or egg hatching , 6
+regulation of hormone levels , 46
+chordate embryonic development , 6
+regulation of hormone secretion , 44
+regulation of protein secretion , 41
+regulation of insulin secretion , 40
+regulation of secretion , 37
+regulation of peptide hormone secretion , 35
+regulation of secretion by cell , 35
+interacts_with_BAG3_HUMAN , 80
+interacts_with_CFTR_HUMAN , 32
+interacts_with_PRP8_HUMAN , 39
+chromosome segregation , 7
+protein modification by small protein conjugation or removal , 90
+interacts_with_U5S1_HUMAN , 32
+fat cell differentiation , 33
+interacts_with_A4_HUMAN , 16
+spermatogenesis , 77
+male gamete generation , 77
+multicellular organismal reproductive process , 69
+interacts_with_LARP7_HUMAN , 56
+cellular response to starvation , 40
+cellular response to extracellular stimulus , 38
+cellular response to nutrient levels , 37
+response to starvation , 36
+negative regulation of protein phosphorylation , 14
+positive regulation of protein binding , 20
+interacts_with_ESR2_HUMAN , 6
+chemotaxis , 30
+gonad development , 7
+male gonad development , 6
+taxis , 28
+reproductive structure development , 5
+cell chemotaxis , 27
+negative regulation of phosphorus metabolic process , 12
+negative regulation of phosphorylation , 10
+negative regulation of phosphate metabolic process , 8
+cellular ion homeostasis , 23
+cellular calcium ion homeostasis , 21
+cellular metal ion homeostasis , 20
+positive regulation of cytosolic calcium ion concentration , 20
+cellular cation homeostasis , 19
+ion homeostasis , 17
+regulation of cytosolic calcium ion concentration , 15
+metal ion homeostasis , 15
+calcium ion homeostasis , 14
+cation homeostasis , 13
+cellular divalent inorganic cation homeostasis , 12
+divalent inorganic cation homeostasis , 12
+inorganic ion homeostasis , 11
+axon guidance , 2
+multicellular organism development , 11
+antigen receptor-mediated signaling pathway , 6
+T cell receptor signaling pathway , 5
+catabolic process , 5
+cellular catabolic process , 4
+interleukin-1-mediated signaling pathway , 1
+negative regulation of DNA-binding transcription factor activity , 13
+interacts_with_CHD4_HUMAN , 15
+negative regulation of defense response , 1
+negative regulation of response to external stimulus , 1
+negative regulation of inflammatory response , 1
+G2/M transition of mitotic cell cycle , 1
+cell cycle G2/M phase transition , 1
+interacts_with_NFX1_HUMAN , 1
+activation of innate immune response , 1
+innate immune response activating cell surface receptor signaling pathway , 1
+stimulatory C-type lectin receptor signaling pathway , 1
+innate immune response-activating signal transduction , 1
+regulation of response to biotic stimulus , 1
+positive regulation of response to biotic stimulus , 1
+regulation of innate immune response , 1
+positive regulation of innate immune response , 1
+interacts_with_STAU1_HUMAN , 4
+interacts_with_BRD7_HUMAN , 2
+neuron projection guidance , 1

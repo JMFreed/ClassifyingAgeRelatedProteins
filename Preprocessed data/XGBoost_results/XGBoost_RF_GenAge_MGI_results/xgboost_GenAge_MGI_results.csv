@@ -1,0 +1,716 @@
+﻿Feature,N_selected
+homeostatic process ,1000
+cellular response to stimulus ,1000
+NumberAgeRelatedPartners ,1000
+response to oxidative stress ,999
+UV protection ,997
+response to chemical ,997
+response to extracellular stimulus ,996
+DNA topological change ,993
+interleukin-7-mediated signaling pathway ,990
+interacts_with_DAND5_HUMAN ,987
+regulation of multicellular organismal process ,981
+cellular process ,978
+positive regulation of metabolic process ,976
+regulation of multicellular organism growth ,967
+cellular response to hormone stimulus ,966
+developmental process involved in reproduction ,963
+negative regulation of apoptotic signaling pathway ,963
+interacts_with_PARP1_HUMAN ,959
+positive regulation of cell death ,940
+organelle organization ,939
+positive regulation of protein phosphorylation ,939
+cellular response to oxidative stress ,935
+regulation of protein kinase B signaling ,935
+transport ,934
+positive regulation of proteolysis ,926
+response to stimulus ,924
+regulation of cell population proliferation ,924
+positive regulation of neuron death ,922
+cell-cell signaling ,905
+interacts_with_IKKA_HUMAN ,904
+interacts_with_RXRA_HUMAN ,901
+interacts_with_RB_HUMAN ,900
+interacts_with_P85A_HUMAN ,897
+lipid metabolic process ,897
+transmembrane receptor protein tyrosine kinase signaling pathway ,885
+cell cycle phase transition ,879
+interacts_with_CADH1_HUMAN ,872
+nucleotide-excision repair DNA incision 5'-to lesion ,858
+interacts_with_JUN_HUMAN ,849
+memory ,844
+skeletal system development ,843
+interacts_with_HCD2_HUMAN ,836
+negative regulation of cell population proliferation ,829
+rhythmic process ,826
+response to radiation ,825
+angiogenesis ,825
+interacts_with_CDK2_HUMAN ,823
+cellular nitrogen compound metabolic process ,810
+apoptotic signaling pathway ,803
+interacts_with_IGF1R_HUMAN ,800
+interacts_with_MTOR_HUMAN ,797
+positive regulation of apoptotic process ,794
+interacts_with_MAX_HUMAN ,792
+neutral lipid metabolic process ,784
+interacts_with_FBW1A_HUMAN ,780
+negative regulation of transcription by RNA polymerase II ,771
+regulation of tyrosine phosphorylation of STAT protein ,768
+regulation of cell cycle ,757
+interacts_with_RAD51_HUMAN ,751
+regulation of reactive oxygen species metabolic process ,745
+interacts_with_CSK2B_HUMAN ,742
+regulation of lipid metabolic process ,738
+interacts_with_PLK1_HUMAN ,725
+negative regulation of cell death ,720
+gamete generation ,695
+interacts_with_PTN11_HUMAN ,684
+interacts_with_PARK7_HUMAN ,684
+regulation of phosphatidylinositol 3-kinase signaling ,680
+organic cyclic compound metabolic process ,676
+response to nutrient ,672
+positive regulation of protein-containing complex assembly ,671
+metabolic process ,669
+interacts_with_SIR1_HUMAN ,668
+regulation of growth ,667
+interacts_with_HEXI1_HUMAN ,661
+regulation of molecular function ,649
+interacts_with_DAXX_HUMAN ,645
+organic substance metabolic process ,641
+interacts_with_ATF2_HUMAN ,639
+regulation of apoptotic signaling pathway ,631
+primary metabolic process ,624
+negative regulation of cellular protein metabolic process ,623
+interacts_with_CDC20_HUMAN ,622
+positive regulation of growth ,615
+interacts_with_CBP_HUMAN ,613
+regulation of cytokine production ,606
+regulation of biological quality ,605
+interacts_with_ZBT7A_HUMAN ,598
+circadian regulation of gene expression ,595
+activation of protein kinase B activity ,592
+interacts_with_ATM_HUMAN ,581
+response to ionizing radiation ,578
+interacts_with_SODC_HUMAN ,576
+double-strand break repair ,574
+regulation of mitotic nuclear division ,570
+enzyme linked receptor protein signaling pathway ,566
+positive regulation of multicellular organismal process ,565
+interacts_with_RN123_HUMAN ,561
+interacts_with_NCOA6_HUMAN ,559
+interacts_with_PIHD1_HUMAN ,555
+interacts_with_CDK1_HUMAN ,553
+protein deacetylation ,550
+global genome nucleotide-excision repair ,543
+interacts_with_KAT5_HUMAN ,543
+growth hormone receptor signaling pathway ,539
+positive regulation of multicellular organism growth ,528
+interacts_with_AKT1_HUMAN ,526
+interacts_with_VHL_HUMAN ,523
+circadian rhythm ,522
+regulation of cold-induced thermogenesis ,522
+regulation of neuron death ,522
+negative regulation of neuron death ,516
+multicellular organismal process ,512
+positive regulation of DNA binding ,508
+peptide metabolic process ,505
+interacts_with_WWP2_HUMAN ,504
+response to gamma radiation ,500
+interacts_with_UBP7_HUMAN ,498
+regulation of neuron apoptotic process ,493
+interacts_with_FAF1_HUMAN ,491
+cell junction organization ,481
+interacts_with_MET14_HUMAN ,479
+negative regulation of apoptotic process ,478
+regulation of protein kinase activity ,477
+response to UV ,470
+interacts_with_ITA4_HUMAN ,459
+interacts_with_WRN_HUMAN ,446
+developmental process ,444
+response to abiotic stimulus ,438
+positive regulation of catalytic activity ,433
+response to temperature stimulus ,429
+interacts_with_PTEN_HUMAN ,424
+cellular component organization ,421
+positive regulation of nitrogen compound metabolic process ,420
+regulation of developmental process ,411
+interacts_with_SOCS1_HUMAN ,410
+cytokine-mediated signaling pathway ,408
+interleukin-12-mediated signaling pathway ,405
+interacts_with_FBXW7_HUMAN ,400
+interacts_with_TF65_HUMAN ,398
+negative regulation of signal transduction ,397
+system development ,394
+regulation of response to stimulus ,391
+positive regulation of cellular component organization ,387
+viral process ,384
+nitrogen compound metabolic process ,383
+interacts_with_ATX3_HUMAN ,381
+interacts_with_RECQ4_HUMAN ,380
+chromosome organization ,378
+interacts_with_SNW1_HUMAN ,377
+interacts_with_TIF1B_HUMAN ,376
+regulation of inflammatory response ,376
+intrinsic apoptotic signaling pathway ,375
+response to endogenous stimulus ,371
+intracellular signal transduction ,370
+regulation of cellular response to oxidative stress ,369
+cellular metabolic process ,364
+regulation of Ras protein signal transduction ,364
+interacts_with_MERL_HUMAN ,363
+negative regulation of cell cycle ,362
+cell division ,361
+interacts_with_CBL_HUMAN ,360
+interacts_with_NCOR1_HUMAN ,359
+response to corticosteroid ,356
+biological regulation ,356
+cell cycle arrest ,355
+establishment of localization in cell ,354
+negative regulation of response to stimulus ,348
+interacts_with_A4_HUMAN ,344
+mitotic cell cycle process ,341
+interacts_with_HUWE1_HUMAN ,341
+vesicle-mediated transport ,341
+interacts_with_TP53B_HUMAN ,339
+positive regulation of intracellular signal transduction ,338
+interspecies interaction between organisms ,338
+G2/M transition of mitotic cell cycle ,335
+interacts_with_UBC_HUMAN ,335
+positive regulation of signal transduction ,334
+interacts_with_BLM_HUMAN ,333
+interacts_with_SKP2_HUMAN ,332
+interacts_with_CYLD_HUMAN ,332
+interacts_with_BCL6_HUMAN ,331
+interacts_with_NFAC2_HUMAN ,328
+interacts_with_NXF1_HUMAN ,327
+interacts_with_CTNB1_HUMAN ,324
+regulation of protein phosphorylation ,322
+immune response ,319
+interacts_with_CUL4B_HUMAN ,314
+interacts_with_CUL3_HUMAN ,308
+interacts_with_IKKB_HUMAN ,308
+interacts_with_XPO1_HUMAN ,307
+multicellular organism development ,305
+interacts_with_ARF_HUMAN ,302
+positive regulation of macromolecule metabolic process ,300
+interacts_with_CUL7_HUMAN ,299
+cellular glucose homeostasis ,296
+regulation of peptide secretion ,294
+interacts_with_BAG3_HUMAN ,289
+carbohydrate homeostasis ,289
+interacts_with_SRC_HUMAN ,283
+interacts_with_NKX21_HUMAN ,279
+interacts_with_FBX6_HUMAN ,278
+interacts_with_RUNX1_HUMAN ,278
+interacts_with_AURKA_HUMAN ,278
+cellular response to drug ,275
+interacts_with_H2AX_HUMAN ,274
+protein modification by small protein conjugation or removal ,273
+small molecule metabolic process ,273
+interacts_with_PPARG_HUMAN ,271
+regulation of peptidyl-tyrosine phosphorylation ,267
+cellular response to ionizing radiation ,267
+chemical homeostasis ,265
+cell communication ,263
+secretion ,262
+interacts_with_ANDR_HUMAN ,261
+nucleobase-containing compound metabolic process ,259
+response to organic cyclic compound ,258
+interacts_with_UBC9_HUMAN ,257
+DNA metabolic process ,256
+regulation of cellular component organization ,253
+response to ischemia ,252
+interacts_with_HDAC9_HUMAN ,252
+intrinsic apoptotic signaling pathway in response to DNA damage ,252
+Wnt signaling pathway ,248
+positive regulation of defense response ,248
+interacts_with_SHC1_HUMAN ,247
+positive regulation of molecular function ,243
+response to hormone ,242
+interacts_with_HDAC1_HUMAN ,238
+interacts_with_SOX2_HUMAN ,238
+interacts_with_MK14_HUMAN ,236
+interacts_with_CSN5_HUMAN ,236
+interacts_with_U5S1_HUMAN ,234
+interacts_with_LARP7_HUMAN ,234
+interacts_with_PRKDC_HUMAN ,234
+interacts_with_CCND1_HUMAN ,233
+response to hydrogen peroxide ,231
+regulation of protein stability ,231
+Fc receptor mediated stimulatory signaling pathway ,230
+positive regulation of cell population proliferation ,230
+interacts_with_STAT3_HUMAN ,228
+interacts_with_SQSTM_HUMAN ,227
+positive regulation of cellular metabolic process ,226
+ERBB signaling pathway ,225
+positive regulation of neuron apoptotic process ,224
+interacts_with_HSPB1_HUMAN ,223
+interacts_with_HNRPL_HUMAN ,221
+interacts_with_MDC1_HUMAN ,221
+interacts_with_OBSL1_HUMAN ,220
+interacts_with_P53_HUMAN ,217
+regulation of biological process ,217
+interacts_with_FZR1_HUMAN ,216
+regulation of protein binding ,216
+interacts_with_RASK_HUMAN ,215
+interacts_with_MCM2_HUMAN ,215
+cellular response to oxygen-containing compound ,213
+regulation of intracellular signal transduction ,212
+cellular chemical homeostasis ,211
+movement of cell or subcellular component ,208
+regulation of nitrogen compound metabolic process ,207
+platelet degranulation ,207
+regulation of MAP kinase activity ,207
+interacts_with_EP300_HUMAN ,205
+double-strand break repair via homologous recombination ,205
+regulation of cellular process ,203
+interacts_with_CSK21_HUMAN ,202
+cellular protein metabolic process ,202
+regulation of cell communication ,201
+base-excision repair ,201
+interacts_with_FUS_HUMAN ,201
+neuron apoptotic process ,198
+positive regulation of cell differentiation ,198
+regulation of primary metabolic process ,197
+interacts_with_LMNA_HUMAN ,196
+regulation of cellular protein metabolic process ,196
+positive regulation of transcription by RNA polymerase II ,194
+positive regulation of developmental process ,193
+response to drug ,192
+cellular macromolecule metabolic process ,191
+response to oxygen-containing compound ,191
+interacts_with_SIR7_HUMAN ,191
+interacts_with_VCAM1_HUMAN ,189
+response to reactive oxygen species ,187
+interacts_with_PML_HUMAN ,187
+regulation of epithelial cell proliferation ,187
+cellular response to unfolded protein ,185
+RNA metabolic process ,185
+regulation of localization ,185
+non-recombinational repair ,184
+interacts_with_PO5F1_HUMAN ,184
+interacts_with_ATTY_HUMAN ,183
+regulation of I-kappaB kinase/NF-kappaB signaling ,182
+regulation of response to stress ,182
+cellular response to chemical stimulus ,181
+negative regulation of protein binding ,180
+interacts_with_LRRK2_HUMAN ,179
+interacts_with_TRAF6_HUMAN ,179
+regulation of binding ,179
+negative regulation of nitrogen compound metabolic process ,179
+regulation of cell death ,177
+response to lipid ,175
+interacts_with_BIRC3_HUMAN ,173
+positive regulation of cellular protein metabolic process ,173
+interacts_with_NR2C2_HUMAN ,173
+cellular response to endogenous stimulus ,172
+positive regulation of inflammatory response ,171
+regulation of transcription by RNA polymerase II ,170
+response to metal ion ,170
+response to organonitrogen compound ,169
+regulation of protein modification process ,168
+positive regulation of cell development ,167
+interacts_with_CDC37_HUMAN ,167
+regulation of endothelial cell migration ,166
+regulation of macromolecule metabolic process ,166
+cellular response to radiation ,166
+transcription-coupled nucleotide-excision repair ,165
+positive regulation of gene expression ,163
+regulation of gene expression ,161
+interacts_with_CDC5L_HUMAN ,159
+interacts_with_PP1A_HUMAN ,157
+positive regulation of DNA-binding transcription factor activity ,156
+regulation of cell migration ,155
+system process ,154
+positive regulation of response to stimulus ,153
+interacts_with_CDK6_HUMAN ,153
+cellular homeostasis ,153
+interacts_with_HDAC5_HUMAN ,152
+positive regulation of biosynthetic process ,152
+peptidyl-tyrosine phosphorylation ,151
+regulation of proteolysis ,151
+regulation of defense response ,151
+interacts_with_ARRB2_HUMAN ,151
+nervous system development ,149
+interacts_with_A16L1_HUMAN ,148
+cellular developmental process ,147
+negative regulation of metabolic process ,146
+DNA recombination ,144
+biosynthetic process ,143
+cellular response to reactive oxygen species ,143
+interacts_with_CUL1_HUMAN ,143
+interacts_with_CUL4A_HUMAN ,142
+positive regulation of kinase activity ,142
+negative regulation of protein modification process ,142
+interacts_with_MDM2_HUMAN ,142
+negative regulation of cellular metabolic process ,141
+protein ubiquitination ,141
+phosphorus metabolic process ,141
+interacts_with_CTBP2_HUMAN ,140
+interacts_with_E2F1_HUMAN ,137
+cellular macromolecule biosynthetic process ,136
+interacts_with_NFX1_HUMAN ,135
+interacts_with_EGFR_HUMAN ,135
+regulation of glycogen biosynthetic process ,134
+ERBB2 signaling pathway ,133
+interacts_with_PHB_HUMAN ,133
+interacts_with_RNF4_HUMAN ,132
+negative regulation of biosynthetic process ,131
+G protein-coupled receptor signaling pathway ,131
+positive regulation of cellular process ,130
+interacts_with_XRCC6_HUMAN ,129
+interacts_with_GRB2_HUMAN ,129
+protein phosphorylation ,127
+interacts_with_TF7L2_HUMAN ,126
+regulation of autophagy ,125
+response to molecule of bacterial origin ,125
+interacts_with_CUL5_HUMAN ,122
+regulation of fibroblast proliferation ,122
+activation of immune response ,121
+interacts_with_KAT2B_HUMAN ,121
+macromolecule metabolic process ,120
+response to X-ray ,118
+response to activity ,117
+response to inorganic substance ,115
+regulation of transport ,115
+response to external stimulus ,114
+regulation of multicellular organismal development ,113
+cell aging ,112
+interacts_with_PCNA_HUMAN ,112
+regulation of apoptotic process ,109
+interacts_with_SMCA4_HUMAN ,108
+telomere maintenance ,107
+positive regulation of nucleobase-containing compound metabolic process ,106
+protein destabilization ,106
+interacts_with_NCOR2_HUMAN ,105
+cell activation ,105
+interacts_with_RING2_HUMAN ,104
+regulation of leukocyte activation ,104
+protein metabolic process ,103
+interacts_with_FINC_HUMAN ,103
+response to toxic substance ,103
+interacts_with_ELAV1_HUMAN ,103
+interacts_with_PRKN_HUMAN ,102
+interacts_with_APEX1_HUMAN ,100
+interacts_with_P63_HUMAN ,100
+interacts_with_CFTR_HUMAN ,100
+interacts_with_HDAC3_HUMAN ,100
+regulation of biosynthetic process ,97
+interacts_with_CDN1A_HUMAN ,97
+forebrain development ,97
+interacts_with_AGR2_HUMAN ,96
+chromosome segregation ,96
+cell cycle process ,95
+platelet activation ,95
+interacts_with_IRS1_HUMAN ,92
+interacts_with_CDK4_HUMAN ,91
+cellular response to stress ,91
+growth hormone receptor signaling pathway via JAK-STAT ,91
+negative regulation of cellular process ,91
+mitochondrion organization ,91
+cell cycle checkpoint ,91
+cellular response to organic substance ,90
+interacts_with_CCDC8_HUMAN ,90
+protein deubiquitination ,90
+response to antibiotic ,89
+cellular protein modification process ,88
+interacts_with_CHIP_HUMAN ,88
+response to growth factor ,87
+cell surface receptor signaling pathway ,87
+MAPK cascade ,87
+interacts_with_CRK_HUMAN ,87
+interacts_with_MEPCE_HUMAN ,86
+antigen receptor-mediated signaling pathway ,86
+regulation of cellular response to stress ,86
+interacts_with_DYR1A_HUMAN ,85
+negative regulation of macromolecule metabolic process ,84
+regulation of signal transduction ,84
+positive regulation of phosphorus metabolic process ,83
+exocytosis ,82
+interacts_with_GCR_HUMAN ,82
+interacts_with_ABL1_HUMAN ,82
+myeloid leukocyte activation ,81
+insulin receptor signaling pathway ,80
+interacts_with_AAR2_HUMAN ,79
+interacts_with_TYY1_HUMAN ,79
+regulation of immune system process ,79
+interacts_with_SMAD3_HUMAN ,79
+interacts_with_HDAC2_HUMAN ,79
+interacts_with_NTRK1_HUMAN ,78
+regulation of circadian rhythm ,78
+regulation of cell differentiation ,77
+interacts_with_GSK3B_HUMAN ,77
+Fc-epsilon receptor signaling pathway ,76
+interacts_with_HIF1A_HUMAN ,76
+interacts_with_HDAC6_HUMAN ,75
+body fluid secretion ,75
+negative regulation of molecular function ,75
+post-translational protein modification ,74
+protein import into nucleus ,74
+negative regulation of gene expression ,73
+regulation of endothelial cell proliferation ,73
+interacts_with_CUL2_HUMAN ,73
+regulation of DNA-binding transcription factor activity ,72
+regulation of cellular metabolic process ,72
+positive regulation of NF-kappaB transcription factor activity ,72
+interacts_with_HSP7C_HUMAN ,71
+response to biotic stimulus ,71
+regulation of phosphate metabolic process ,70
+response to peptide hormone ,70
+regulation of catabolic process ,70
+interacts_with_P73_HUMAN ,68
+regulation of mitotic cell cycle ,67
+immune effector process ,67
+interacts_with_CEBPB_HUMAN ,67
+positive regulation of protein binding ,65
+interacts_with_NPM_HUMAN ,65
+interacts_with_PP1G_HUMAN ,65
+interacts_with_FBX7_HUMAN ,64
+interacts_with_CHD3_HUMAN ,63
+interacts_with_TERF1_HUMAN ,63
+cellular senescence ,63
+extracellular matrix organization ,63
+interacts_with_BRCA1_HUMAN ,63
+proteolysis ,62
+regulation of MAPK cascade ,62
+signal transduction ,61
+small GTPase mediated signal transduction ,60
+positive regulation of macromolecule biosynthetic process ,60
+cellular ion homeostasis ,60
+peptidyl-amino acid modification ,60
+regulation of cell cycle process ,59
+interacts_with_STAU1_HUMAN ,59
+interacts_with_MOV10_HUMAN ,58
+interacts_with_RFA3_HUMAN ,58
+response to hypoxia ,58
+interacts_with_ERBB2_HUMAN ,57
+animal organ development ,57
+interacts_with_ESR2_HUMAN ,56
+regulation of nucleobase-containing compound metabolic process ,55
+interacts_with_SUZ12_HUMAN ,54
+activation of protein kinase activity ,53
+response to heat ,53
+organonitrogen compound metabolic process ,53
+negative regulation of neuron apoptotic process ,52
+anatomical structure development ,51
+apoptotic process ,50
+interacts_with_NCOA3_HUMAN ,50
+interacts_with_NEDD4_HUMAN ,50
+cellular component assembly ,50
+extrinsic apoptotic signaling pathway ,50
+interacts_with_STAT1_HUMAN ,50
+interacts_with_PKHA4_HUMAN ,49
+interacts_with_TERA_HUMAN ,48
+interacts_with_EGLN3_HUMAN ,48
+regulation of signal transduction by p53 class mediator ,48
+protein polyubiquitination ,48
+regulation of proteasomal ubiquitin-dependent protein catabolic process ,47
+response to organic substance ,47
+alcohol metabolic process ,47
+regulation of ERK1 and ERK2 cascade ,47
+interacts_with_SYUA_HUMAN ,47
+interacts_with_MK08_HUMAN ,47
+positive regulation of biological process ,47
+cell redox homeostasis ,47
+interacts_with_EED_HUMAN ,47
+defense response ,46
+interacts_with_ESR1_HUMAN ,46
+interacts_with_HSP74_HUMAN ,45
+peptidyl-serine phosphorylation ,45
+cell population proliferation ,44
+interacts_with_EZH2_HUMAN ,44
+Fc receptor signaling pathway ,44
+cell differentiation ,43
+cellular response to external stimulus ,43
+response to estradiol ,42
+interacts_with_TNIP2_HUMAN ,42
+regulation of transforming growth factor beta receptor signaling pathway ,42
+cellular response to starvation ,41
+interacts_with_RPB1_HUMAN ,41
+interacts_with_RFA2_HUMAN ,40
+cellular response to gamma radiation ,40
+interacts_with_MYC_HUMAN ,40
+interacts_with_ARAF_HUMAN ,39
+activation of MAPK activity ,39
+interacts_with_UHRF2_HUMAN ,39
+regulation of protein localization ,39
+interacts_with_HS90A_HUMAN ,38
+interacts_with_CAND1_HUMAN ,38
+positive regulation of immune system process ,38
+positive regulation of endopeptidase activity ,38
+interacts_with_TRI25_HUMAN ,37
+interacts_with_CDK9_HUMAN ,37
+interacts_with_NEMO_HUMAN ,36
+DNA repair ,36
+regulation of G0 to G1 transition ,36
+interacts_with_UBC12_HUMAN ,36
+interacts_with_VIR_HUMAN ,35
+axon guidance ,35
+interacts_with_CHD4_HUMAN ,35
+regulation of macromolecule biosynthetic process ,35
+interacts_with_SNAI1_HUMAN ,34
+cellular response to lipid ,34
+regulation of catalytic activity ,34
+microglial cell activation ,34
+cellular response to biotic stimulus ,33
+peptidyl-threonine phosphorylation ,33
+embryonic placenta development ,33
+fibroblast growth factor receptor signaling pathway ,32
+interacts_with_1433T_HUMAN ,31
+cellular response to DNA damage stimulus ,30
+positive regulation of protein modification process ,30
+G1/S transition of mitotic cell cycle ,30
+cell migration ,30
+protein stabilization ,30
+protein autophosphorylation ,29
+interacts_with_BMI1_HUMAN ,29
+cell cycle ,29
+interacts_with_HDAC4_HUMAN ,27
+lung development ,27
+interacts_with_RAF1_HUMAN ,26
+interacts_with_MCM7_HUMAN ,25
+regulation of metabolic process ,25
+response to mechanical stimulus ,25
+immune system process ,25
+chromatin remodeling ,25
+interacts_with_KDM1A_HUMAN ,24
+interacts_with_CHK2_HUMAN ,24
+interacts_with_ARNT_HUMAN ,24
+regulation of RNA metabolic process ,24
+positive regulation of catabolic process ,23
+cellular response to UV ,23
+response to unfolded protein ,23
+response to cold ,23
+interacts_with_CHK1_HUMAN ,23
+interacts_with_RFA1_HUMAN ,23
+cellular response to abiotic stimulus ,23
+interacts_with_EWS_HUMAN ,23
+epidermal growth factor receptor signaling pathway ,23
+nucleotide-excision repair ,22
+negative regulation of epithelial cell proliferation ,22
+interacts_with_RBX1_HUMAN ,21
+response to stress ,21
+activation of innate immune response ,21
+chemotaxis ,21
+interacts_with_YAP1_HUMAN ,20
+cellular response to organonitrogen compound ,20
+negative regulation of biological process ,20
+interacts_with_BRD7_HUMAN ,20
+interacts_with_RARA_HUMAN ,19
+regulation of Wnt signaling pathway ,19
+interacts_with_A1ATR_HUMAN ,19
+interacts_with_KPCA_HUMAN ,19
+regulation of protein ubiquitination ,18
+vascular endothelial growth factor receptor signaling pathway ,18
+ubiquitin-dependent protein catabolic process ,18
+interacts_with_CEBPA_HUMAN ,18
+cellular response to decreased oxygen levels ,18
+interacts_with_ARRB1_HUMAN ,17
+heart development ,17
+regulation of peptidyl-serine phosphorylation ,17
+regulation of myeloid cell differentiation ,17
+response to cytokine ,17
+response to tumor necrosis factor ,17
+negative regulation of Wnt signaling pathway ,16
+regulation of B cell proliferation ,16
+negative regulation of signal transduction in absence of ligand ,16
+response to wounding ,15
+phosphatidylinositol-mediated signaling ,14
+gonad development ,14
+interacts_with_SMAD4_HUMAN ,14
+cell activation involved in immune response ,14
+interacts_with_HD_HUMAN ,13
+interacts_with_SC6A4_HUMAN ,13
+regulation of cysteine-type endopeptidase activity involved in apoptotic process ,13
+positive regulation of mitotic cell cycle ,12
+response to insulin ,12
+positive regulation of binding ,12
+cellular response to insulin stimulus ,12
+neuron differentiation ,11
+regulation of protein transport ,11
+proteasomal protein catabolic process ,11
+regulation of protein localization to nucleus ,11
+interacts_with_NFKB1_HUMAN ,11
+positive regulation of transport ,11
+chromatin organization ,10
+interacts_with_SMUF1_HUMAN ,10
+signal transduction in absence of ligand ,10
+regulation of anatomical structure morphogenesis ,9
+interacts_with_SUMO2_HUMAN ,9
+inflammatory response ,9
+intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator ,9
+response to ethanol ,8
+regulation of neuron projection development ,8
+nucleotide-excision repair DNA incision 3'-to lesion ,8
+regulation of lipid kinase activity ,7
+membrane organization ,7
+signal transduction by p53 class mediator ,7
+hematopoietic or lymphoid organ development ,7
+negative regulation of protein phosphorylation ,7
+regulation of ossification ,7
+interacts_with_TANK_HUMAN ,7
+interleukin-1-mediated signaling pathway ,6
+DNA replication ,6
+developmental maturation ,6
+regulation of type I interferon production ,6
+interacts_with_PRP8_HUMAN ,6
+activation of cysteine-type endopeptidase activity involved in apoptotic process ,6
+response to nerve growth factor ,6
+positive regulation of epithelial cell proliferation ,5
+cellular response to inorganic substance ,5
+regeneration ,5
+multicellular organism growth ,5
+I-kappaB kinase/NF-kappaB signaling ,5
+regulation of cell growth ,5
+response to amyloid-beta ,5
+regulation of extrinsic apoptotic signaling pathway ,5
+regulation of cellular localization ,5
+catabolic process ,5
+fat cell differentiation ,5
+gland development ,4
+autophagy ,4
+response to endoplasmic reticulum stress ,4
+regulation of cellular response to heat ,4
+interacts_with_MK01_HUMAN ,4
+negative regulation of defense response ,4
+interacts_with_UBE3A_HUMAN ,4
+immune response-regulating signaling pathway ,4
+regulation of pri-miRNA transcription by RNA polymerase II ,4
+response to epidermal growth factor ,3
+negative regulation of cell cycle process ,3
+regulation of smooth muscle cell proliferation ,3
+release of cytochrome c from mitochondria ,3
+hematopoietic progenitor cell differentiation ,3
+positive regulation of protein ubiquitination ,3
+peptidyl-tyrosine autophosphorylation ,3
+regulation of intracellular transport ,3
+regulation of stress-activated MAPK cascade ,2
+leukocyte migration ,2
+tumor necrosis factor-mediated signaling pathway ,2
+regulation of cell-cell adhesion ,2
+regulation of tumor necrosis factor production ,2
+positive regulation of Wnt signaling pathway ,2
+endocytosis ,2
+negative regulation of peptidase activity ,2
+negative regulation of protein ubiquitination ,2
+cellular response to organic cyclic compound ,2
+positive regulation of cell growth ,2
+negative regulation of cell differentiation ,1
+positive regulation of cell cycle process ,1
+transmembrane receptor protein serine/threonine kinase signaling pathway ,1
+regulation of DNA replication ,1
+interacts_with_ANTR1_HUMAN ,1
+cellular response to mechanical stimulus ,1
+regulation of superoxide anion generation ,1
+cell projection organization ,1
+mitochondrial membrane organization ,1
+in utero embryonic development ,1
+interacts_with_XRCC5_HUMAN ,1
+cellular response to estradiol stimulus ,1
+NULL,NULL
+NULL,NULL
+NULL,NULL
+NULL,NULL
+NULL,NULL
+NULL,NULL
+NULL,NULL

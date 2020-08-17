@@ -1,0 +1,457 @@
+
+Iteration: 0
+CV number: 0
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 5}
+Iteration: 0
+CV number: 1
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 5}
+Iteration: 0
+CV number: 2
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 5}
+Iteration: 0
+CV number: 3
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 10, 'min_samples_leaf': 5, 'min_samples_split': 50}
+Iteration: 0
+CV number: 4
+Best parameters: {'ccp_alpha': 1e-05, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 20}
+Iteration: 0
+CV number: 5
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 10}
+Iteration: 0
+CV number: 6
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 20}
+Iteration: 0
+CV number: 7
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 20}
+Iteration: 0
+CV number: 8
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 50}
+Iteration: 0
+CV number: 9
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 20}
+Iteration: 1
+CV number: 0
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 20, 'min_samples_leaf': 5, 'min_samples_split': 5}
+Iteration: 1
+CV number: 1
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 20}
+Iteration: 1
+CV number: 2
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 20}
+Iteration: 1
+CV number: 3
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 5}
+Iteration: 1
+CV number: 4
+Best parameters: {'ccp_alpha': 1e-05, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 5}
+Iteration: 1
+CV number: 5
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 10}
+Iteration: 1
+CV number: 6
+Best parameters: {'ccp_alpha': 1e-05, 'max_depth': 10, 'min_samples_leaf': 5, 'min_samples_split': 10}
+Iteration: 1
+CV number: 7
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 20}
+Iteration: 1
+CV number: 8
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 10}
+Iteration: 1
+CV number: 9
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 20, 'min_samples_leaf': 5, 'min_samples_split': 5}
+Iteration: 2
+CV number: 0
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 5}
+Iteration: 2
+CV number: 1
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 50}
+Iteration: 2
+CV number: 2
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 5}
+Iteration: 2
+CV number: 3
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 50}
+Iteration: 2
+CV number: 4
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 5}
+Iteration: 2
+CV number: 5
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 20}
+Iteration: 2
+CV number: 6
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 10}
+Iteration: 0
+CV number: 0
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 20}
+Iteration: 0
+CV number: 1
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 20}
+Iteration: 0
+CV number: 2
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 50}
+Iteration: 0
+CV number: 3
+Best parameters: {'ccp_alpha': 1e-05, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 50}
+Iteration: 0
+CV number: 4
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 10}
+Iteration: 0
+CV number: 5
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 20}
+Iteration: 0
+CV number: 6
+Best parameters: {'ccp_alpha': 1e-05, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 20}
+Iteration: 0
+CV number: 7
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 10}
+Iteration: 0
+CV number: 8
+Best parameters: {'ccp_alpha': 1e-05, 'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 10}
+Iteration: 0
+CV number: 9
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 5}
+Iteration: 1
+CV number: 0
+Best parameters: {'ccp_alpha': 1e-05, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 5}
+Iteration: 1
+CV number: 1
+Best parameters: {'ccp_alpha': 1e-05, 'max_depth': 10, 'min_samples_leaf': 10, 'min_samples_split': 5}
+Iteration: 1
+CV number: 2
+Best parameters: {'ccp_alpha': 1e-05, 'max_depth': 20, 'min_samples_leaf': 5, 'min_samples_split': 5}
+Iteration: 1
+CV number: 3
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 5}
+Iteration: 1
+CV number: 4
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 50}
+Iteration: 1
+CV number: 5
+Best parameters: {'ccp_alpha': 1e-05, 'max_depth': 10, 'min_samples_leaf': 5, 'min_samples_split': 20}
+Iteration: 1
+CV number: 6
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 50}
+Iteration: 1
+CV number: 7
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 5}
+Iteration: 1
+CV number: 8
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 50}
+Iteration: 1
+CV number: 9
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 5}
+Iteration: 2
+CV number: 0
+Best parameters: {'ccp_alpha': 1e-05, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 50}
+Iteration: 2
+CV number: 1
+Best parameters: {'ccp_alpha': 1e-05, 'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 50}
+Iteration: 2
+CV number: 2
+Best parameters: {'ccp_alpha': 1e-05, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 5}
+Iteration: 2
+CV number: 3
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 5}
+Iteration: 2
+CV number: 4
+Best parameters: {'ccp_alpha': 1e-05, 'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 50}
+Iteration: 2
+CV number: 5
+Best parameters: {'ccp_alpha': 1e-05, 'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 20}
+Iteration: 2
+CV number: 6
+Best parameters: {'ccp_alpha': 1e-05, 'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 5}
+Iteration: 2
+CV number: 7
+Best parameters: {'ccp_alpha': 1e-05, 'max_depth': 10, 'min_samples_leaf': 10, 'min_samples_split': 50}
+Iteration: 2
+CV number: 8
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 5}
+Iteration: 2
+CV number: 9
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 10}
+Iteration: 3
+CV number: 0
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 5}
+Iteration: 3
+CV number: 1
+Best parameters: {'ccp_alpha': 1e-05, 'max_depth': 20, 'min_samples_leaf': 5, 'min_samples_split': 5}
+Iteration: 3
+CV number: 2
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 20}
+Iteration: 3
+CV number: 3
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 50}
+Iteration: 3
+CV number: 4
+Best parameters: {'ccp_alpha': 1e-05, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 10}
+Iteration: 3
+CV number: 5
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 50}
+Iteration: 3
+CV number: 6
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 10}
+Iteration: 3
+CV number: 7
+Best parameters: {'ccp_alpha': 1e-05, 'max_depth': 10, 'min_samples_leaf': 5, 'min_samples_split': 10}
+Iteration: 3
+CV number: 8
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 10, 'min_samples_leaf': 10, 'min_samples_split': 10}
+Iteration: 3
+CV number: 9
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 5}
+Iteration: 4
+CV number: 0
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 50}
+Iteration: 4
+CV number: 1
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 10, 'min_samples_leaf': 5, 'min_samples_split': 5}
+Iteration: 4
+CV number: 2
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 5}
+Iteration: 4
+CV number: 3
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 5}
+Iteration: 4
+CV number: 4
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 5}
+Iteration: 4
+CV number: 5
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 50}
+Iteration: 4
+CV number: 6
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 5}
+Iteration: 4
+CV number: 7
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 20}
+Iteration: 4
+CV number: 8
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 20}
+Iteration: 4
+CV number: 9
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 20, 'min_samples_leaf': 10, 'min_samples_split': 5}
+Iteration: 5
+CV number: 0
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 10}
+Iteration: 5
+CV number: 1
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 5}
+Iteration: 5
+CV number: 2
+Best parameters: {'ccp_alpha': 1e-05, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 20}
+Iteration: 5
+CV number: 3
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 5, 'min_samples_leaf': 2, 'min_samples_split': 50}
+Iteration: 5
+CV number: 4
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 20}
+Iteration: 5
+CV number: 5
+Best parameters: {'ccp_alpha': 1e-05, 'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 20}
+Iteration: 5
+CV number: 6
+Best parameters: {'ccp_alpha': 1e-05, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 50}
+Iteration: 5
+CV number: 7
+Best parameters: {'ccp_alpha': 1e-05, 'max_depth': 10, 'min_samples_leaf': 10, 'min_samples_split': 10}
+Iteration: 5
+CV number: 8
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 5}
+Iteration: 5
+CV number: 9
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 10}
+Iteration: 6
+CV number: 0
+Best parameters: {'ccp_alpha': 1e-05, 'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 20}
+Iteration: 6
+CV number: 1
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 5}
+Iteration: 6
+CV number: 2
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 5}
+Iteration: 6
+CV number: 3
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 10, 'min_samples_leaf': 5, 'min_samples_split': 5}
+Iteration: 6
+CV number: 4
+Best parameters: {'ccp_alpha': 1e-05, 'max_depth': 10, 'min_samples_leaf': 5, 'min_samples_split': 50}
+Iteration: 6
+CV number: 5
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 10}
+Iteration: 6
+CV number: 6
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 20}
+Iteration: 6
+CV number: 7
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 20}
+Iteration: 6
+CV number: 8
+Best parameters: {'ccp_alpha': 1e-05, 'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 20}
+Iteration: 6
+CV number: 9
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 20, 'min_samples_leaf': 5, 'min_samples_split': 5}
+Iteration: 7
+CV number: 0
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 5}
+Iteration: 7
+CV number: 1
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 5}
+Iteration: 7
+CV number: 2
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 10}
+Iteration: 7
+CV number: 3
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 10}
+Iteration: 7
+CV number: 4
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 20, 'min_samples_leaf': 5, 'min_samples_split': 20}
+Iteration: 7
+CV number: 5
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 10, 'min_samples_leaf': 5, 'min_samples_split': 20}
+Iteration: 7
+CV number: 6
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 50}
+Iteration: 7
+CV number: 7
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 20}
+Iteration: 7
+CV number: 8
+Best parameters: {'ccp_alpha': 1e-05, 'max_depth': 20, 'min_samples_leaf': 5, 'min_samples_split': 20}
+Iteration: 7
+CV number: 9
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 20}
+Iteration: 8
+CV number: 0
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 5}
+Iteration: 8
+CV number: 1
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 20, 'min_samples_leaf': 5, 'min_samples_split': 20}
+Iteration: 8
+CV number: 2
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 5}
+Iteration: 8
+CV number: 3
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 20, 'min_samples_leaf': 5, 'min_samples_split': 5}
+Iteration: 8
+CV number: 4
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 10, 'min_samples_leaf': 5, 'min_samples_split': 20}
+Iteration: 8
+CV number: 5
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 5}
+Iteration: 8
+CV number: 6
+Best parameters: {'ccp_alpha': 1e-05, 'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 10}
+Iteration: 8
+CV number: 7
+Best parameters: {'ccp_alpha': 1e-05, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 10}
+Iteration: 8
+CV number: 8
+Best parameters: {'ccp_alpha': 1e-05, 'max_depth': 20, 'min_samples_leaf': 5, 'min_samples_split': 5}
+Iteration: 8
+CV number: 9
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 5}
+Iteration: 9
+CV number: 0
+Best parameters: {'ccp_alpha': 1e-05, 'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 20}
+Iteration: 9
+CV number: 1
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 50}
+Iteration: 9
+CV number: 2
+Best parameters: {'ccp_alpha': 1e-05, 'max_depth': 10, 'min_samples_leaf': 5, 'min_samples_split': 10}
+Iteration: 9
+CV number: 3
+Best parameters: {'ccp_alpha': 1e-05, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 5}
+Iteration: 9
+CV number: 4
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 10}
+Iteration: 9
+CV number: 5
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 20}
+Iteration: 9
+CV number: 6
+Best parameters: {'ccp_alpha': 1e-05, 'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 10}
+Iteration: 9
+CV number: 7
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 5}
+Iteration: 9
+CV number: 8
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 50}
+Iteration: 9
+CV number: 9
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 10, 'min_samples_leaf': 10, 'min_samples_split': 50}
+Iteration: 10
+CV number: 0
+Best parameters: {'ccp_alpha': 1e-05, 'max_depth': 10, 'min_samples_leaf': 10, 'min_samples_split': 20}
+Iteration: 10
+CV number: 1
+Best parameters: {'ccp_alpha': 1e-05, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 50}
+Iteration: 10
+CV number: 2
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 10}
+Iteration: 10
+CV number: 3
+Best parameters: {'ccp_alpha': 1e-05, 'max_depth': 10, 'min_samples_leaf': 5, 'min_samples_split': 10}
+Iteration: 10
+CV number: 4
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 5}
+Iteration: 10
+CV number: 5
+Best parameters: {'ccp_alpha': 1e-05, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 10}
+Iteration: 10
+CV number: 6
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 10, 'min_samples_leaf': 5, 'min_samples_split': 10}
+Iteration: 10
+CV number: 7
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 5}
+Iteration: 10
+CV number: 8
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 10}
+Iteration: 10
+CV number: 9
+Best parameters: {'ccp_alpha': 1e-05, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 10}
+Iteration: 11
+CV number: 0
+Best parameters: {'ccp_alpha': 1e-05, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 20}
+Iteration: 11
+CV number: 1
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 10}
+Iteration: 11
+CV number: 2
+Best parameters: {'ccp_alpha': 1e-05, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 20}
+Iteration: 11
+CV number: 3
+Best parameters: {'ccp_alpha': 1e-05, 'max_depth': 20, 'min_samples_leaf': 5, 'min_samples_split': 20}
+Iteration: 11
+CV number: 4
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 10, 'min_samples_leaf': 5, 'min_samples_split': 10}
+Iteration: 11
+CV number: 5
+Best parameters: {'ccp_alpha': 1e-05, 'max_depth': 10, 'min_samples_leaf': 5, 'min_samples_split': 20}
+Iteration: 11
+CV number: 6
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 20, 'min_samples_leaf': 5, 'min_samples_split': 20}
+Iteration: 11
+CV number: 7
+Best parameters: {'ccp_alpha': 1e-05, 'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 50}
+Iteration: 11
+CV number: 8
+Best parameters: {'ccp_alpha': 1e-05, 'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 10}
+Iteration: 11
+CV number: 9
+Best parameters: {'ccp_alpha': 1e-05, 'max_depth': 10, 'min_samples_leaf': 5, 'min_samples_split': 5}
+Iteration: 12
+CV number: 0
+Best parameters: {'ccp_alpha': 1e-05, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 20}
+Iteration: 12
+CV number: 1
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 20, 'min_samples_leaf': 2, 'min_samples_split': 10}
+Iteration: 12
+CV number: 2
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 10, 'min_samples_leaf': 10, 'min_samples_split': 5}
+Iteration: 12
+CV number: 3
+Best parameters: {'ccp_alpha': 0.0001, 'max_depth': 20, 'min_samples_leaf': 10, 'min_samples_split': 20}
+Iteration: 12
+CV number: 4
+Best parameters: {'ccp_alpha': 1e-05, 'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 50}

@@ -1,0 +1,139 @@
+﻿feature,GOTermName,n_counts,importance
+GO:0032502,developmental process,150,0.053520696
+GO:0065007,biological regulation,150,0.051933764
+NumberAgeRelatedPartners,NULL,143,0.052304748
+GO:0051716,cellular response to stimulus,142,0.053184475
+GO:0051239,regulation of multicellular organismal process,141,0.051873828
+GO:0050896,response to stimulus,140,0.057531009
+GO:0042221,response to chemical,139,0.052728268
+GO:0071704,organic substance metabolic process,137,0.053790123
+GO:0009628,response to abiotic stimulus,125,0.049217005
+GO:0065008,regulation of biological quality,124,0.052725638
+GO:0009987,cellular process,116,0.050588471
+GO:0042127,regulation of cell population proliferation,114,0.048387956
+GO:0048583,regulation of response to stimulus,105,0.054477766
+GO:0065009,regulation of molecular function,96,0.056686853
+GO:0034641,cellular nitrogen compound metabolic process,95,0.048722091
+GO:0043066,negative regulation of apoptotic process,87,0.048974154
+GO:0042592,homeostatic process,86,0.040017364
+GO:0033554,cellular response to stress,81,0.050106065
+GO:0008152,metabolic process,77,0.05856248
+GO:0009893,positive regulation of metabolic process,75,0.051817219
+GO:0044238,primary metabolic process,67,0.04784794
+GO:0009967,positive regulation of signal transduction,66,0.049705916
+GO:0051240,positive regulation of multicellular organismal process,60,0.046935688
+GO:1901360,organic cyclic compound metabolic process,55,0.047870739
+GO:0048584,positive regulation of response to stimulus,47,0.045483036
+GO:0019220,regulation of phosphate metabolic process,46,0.050070073
+GO:0006807,nitrogen compound metabolic process,43,0.052572825
+GO:0035556,intracellular signal transduction,43,0.051229714
+GO:0010941,regulation of cell death,43,0.04603392
+GO:0010646,regulation of cell communication,42,0.047386732
+GO:0050794,regulation of cellular process,39,0.048968863
+GO:0060548,negative regulation of cell death,37,0.047768669
+GO:0031325,positive regulation of cellular metabolic process,37,0.045182439
+GO:0043170,macromolecule metabolic process,37,0.042200233
+GO:1902531,regulation of intracellular signal transduction,35,0.054532615
+GO:0016043,cellular component organization,33,0.047955759
+GO:0008284,positive regulation of cell population proliferation,32,0.042454322
+GO:0006139,nucleobase-containing compound metabolic process,30,0.041673069
+GO:0009605,response to external stimulus,30,0.031942824
+GO:0080090,regulation of primary metabolic process,28,0.058525901
+GO:0009719,response to endogenous stimulus,26,0.037994385
+GO:0044237,cellular metabolic process,24,0.051687161
+GO:0009891,positive regulation of biosynthetic process,24,0.049929408
+GO:0010604,positive regulation of macromolecule metabolic process,23,0.048729538
+GO:0032501,multicellular organismal process,22,0.046977332
+GO:0010942,positive regulation of cell death,22,0.033591794
+GO:0010629,negative regulation of gene expression,21,0.054035295
+GO:0044267,cellular protein metabolic process,21,0.049227179
+GO:0048513,animal organ development,21,0.045441821
+GO:0031323,regulation of cellular metabolic process,19,0.043713582
+GO:0071310,cellular response to organic substance,18,0.064667253
+GO:0009892,negative regulation of metabolic process,18,0.039124913
+GO:0001934,positive regulation of protein phosphorylation,18,0.034417536
+interacts_with_EGFR_HUMAN,NULL,17,0.043710305
+GO:0042981,regulation of apoptotic process,16,0.059444313
+GO:0050793,regulation of developmental process,16,0.048972498
+GO:0070887,cellular response to chemical stimulus,16,0.047181728
+GO:0031399,regulation of protein modification process,15,0.039871684
+GO:0032270,positive regulation of cellular protein metabolic process,14,0.061940735
+GO:0045944,positive regulation of transcription by RNA polymerase II,14,0.051253433
+GO:0009966,regulation of signal transduction,14,0.051006633
+interacts_with_BRCA1_HUMAN,NULL,14,0.047631268
+GO:0006357,regulation of transcription by RNA polymerase II,14,0.039336536
+GO:0060255,regulation of macromolecule metabolic process,13,0.063975437
+GO:0010628,positive regulation of gene expression,13,0.047643337
+GO:0006793,phosphorus metabolic process,13,0.043925449
+GO:0000122,negative regulation of transcription by RNA polymerase II,13,0.033801234
+GO:0051173,positive regulation of nitrogen compound metabolic process,12,0.049542619
+GO:0031324,negative regulation of cellular metabolic process,11,0.06346306
+GO:0044260,cellular macromolecule metabolic process,11,0.061162177
+GO:1901564,organonitrogen compound metabolic process,11,0.055107164
+GO:0051171,regulation of nitrogen compound metabolic process,11,0.050024889
+GO:1902533,positive regulation of intracellular signal transduction,11,0.040837161
+GO:0006974,cellular response to DNA damage stimulus,11,0.039350477
+GO:0010556,regulation of macromolecule biosynthetic process,10,0.052061249
+interacts_with_P53_HUMAN,NULL,10,0.05138302
+GO:0019538,protein metabolic process,10,0.049842704
+GO:0032268,regulation of cellular protein metabolic process,10,0.047742468
+GO:0010033,response to organic substance,9,0.069370334
+GO:0009890,negative regulation of biosynthetic process,9,0.05893574
+GO:0010605,negative regulation of macromolecule metabolic process,9,0.049305959
+GO:0043085,positive regulation of catalytic activity,9,0.034344419
+GO:0048585,negative regulation of response to stimulus,9,0.033411764
+GO:0048519,negative regulation of biological process,8,0.059022705
+interacts_with_EP300_HUMAN,NULL,8,0.042136577
+GO:1901700,response to oxygen-containing compound,7,0.06143403
+GO:0001932,regulation of protein phosphorylation,7,0.057658491
+GO:0048523,negative regulation of cellular process,7,0.043262341
+GO:0051726,regulation of cell cycle,7,0.026982581
+GO:0006355,"regulation of transcription, DNA-templated",6,0.0491206
+GO:0048869,cellular developmental process,6,0.045131022
+interacts_with_TRI25_HUMAN,NULL,6,0.043195121
+GO:0006464,cellular protein modification process,5,0.042929352
+GO:0032879,regulation of localization,5,0.040782828
+GO:0044093,positive regulation of molecular function,5,0.034949634
+GO:0051172,negative regulation of nitrogen compound metabolic process,5,0.029237487
+GO:0016310,phosphorylation,4,0.050595238
+GO:0019219,regulation of nucleobase-containing compound metabolic process,4,0.04552172
+GO:0031401,positive regulation of protein modification process,4,0.044024211
+GO:0002376,immune system process,4,0.043082898
+GO:0045934,negative regulation of nucleobase-containing compound metabolic process,4,0.037606497
+GO:0051246,regulation of protein metabolic process,4,0.030898061
+GO:0010557,positive regulation of macromolecule biosynthetic process,4,0.027505584
+GO:0045935,positive regulation of nucleobase-containing compound metabolic process,3,0.086855878
+GO:0045893,"positive regulation of transcription, DNA-templated",3,0.074837544
+GO:0051252,regulation of RNA metabolic process,3,0.057071147
+GO:0031328,positive regulation of cellular biosynthetic process,3,0.051328809
+GO:0010468,regulation of gene expression,3,0.046058142
+GO:0019222,regulation of metabolic process,3,0.04307592
+GO:0048856,anatomical structure development,3,0.041505604
+interacts_with_ESR2_HUMAN,NULL,3,0.03893066
+GO:1901701,cellular response to oxygen-containing compound,3,0.02794082
+interacts_with_RNF4_HUMAN,NULL,3,0.022292624
+GO:0009889,regulation of biosynthetic process,2,0.093965517
+GO:0007166,cell surface receptor signaling pathway,2,0.077648839
+GO:0051247,positive regulation of protein metabolic process,2,0.07745098
+GO:0045892,"negative regulation of transcription, DNA-templated",2,0.054215293
+GO:0048522,positive regulation of cellular process,2,0.050865801
+GO:0051128,regulation of cellular component organization,2,0.044740704
+GO:0080134,regulation of response to stress,2,0.038888889
+GO:0050789,regulation of biological process,2,0.032735687
+interacts_with_PKHA4_HUMAN,NULL,2,0.032142857
+interacts_with_ELAV1_HUMAN,NULL,2,0.031947262
+GO:0006979,response to oxidative stress,2,0.031746032
+interacts_with_NTRK1_HUMAN,NULL,2,0.030052265
+GO:0051253,negative regulation of RNA metabolic process,2,0.028680251
+GO:0044419,interspecies interaction between organisms,2,0.017571061
+GO:0043065,positive regulation of apoptotic process,1,0.035714286
+GO:0006950,response to stress,1,0.034966073
+interacts_with_NR2C2_HUMAN,NULL,1,0.033333333
+GO:0071495,cellular response to endogenous stimulus,1,0.028571429
+GO:0007167,enzyme linked receptor protein signaling pathway,1,0.027777778
+GO:0007165,signal transduction,1,0.027777778
+GO:0033993,response to lipid,1,0.027027027
+GO:0050790,regulation of catalytic activity,1,0.027027027
+GO:0006468,protein phosphorylation,1,0.027027027
+GO:0009725,response to hormone,1,0.011661325
+interacts_with_RASK_HUMAN,NULL,1,0.000622031
